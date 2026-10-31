@@ -2,6 +2,7 @@ import json
 import re
 import subprocess
 import unittest
+import xml.etree.ElementTree as ET
 from html.parser import HTMLParser
 from pathlib import Path
 from catalogue import START, END, render
@@ -72,8 +73,14 @@ class CatalogueBrowserContractTests(unittest.TestCase):
         html = HTML.read_text(encoding="utf-8")
         css_hrefs = [attrs.get("href") for tag, attrs in self.parser.elements
                      if tag == "link" and attrs.get("rel") == "stylesheet"]
+        icon_hrefs = [attrs.get("href") for tag, attrs in self.parser.elements
+                      if tag == "link" and attrs.get("rel") == "icon"]
         script_srcs = [attrs.get("src") for tag, attrs in self.parser.elements if tag == "script"]
         self.assertIn("./assets/catalogue.css", css_hrefs)
+        self.assertIn("./assets/favicon.svg", icon_hrefs)
+        favicon = ROOT / "assets" / "favicon.svg"
+        self.assertTrue(favicon.is_file())
+        self.assertEqual(ET.parse(favicon).getroot().tag, "{http://www.w3.org/2000/svg}svg")
         self.assertIn("./assets/catalogue.js", script_srcs)
         self.assertIn('fetch("./data/treasures.json")', JS.read_text(encoding="utf-8"))
         self.assertNotRegex(html, r"<script[^>]+src=[\"']https?://")
@@ -115,6 +122,28 @@ class CatalogueBrowserContractTests(unittest.TestCase):
         self.assertTrue(any("README.md" in href for href in self.parser.noscript_links),
                         "noscript fallback should link to README")
         self.assertIn("catalogue-error", {attrs.get("id") for _, attrs in self.parser.elements})
+
+    def test_loader_shows_recovery_for_fetch_http_and_json_failures(self):
+        self.assertTrue(JS.is_file(), "catalogue JavaScript must exist")
+        self.run_node(
+            "const assert = require('node:assert/strict');\n"
+            "const ids = ['results-count','catalogue-error','search-input','category-filter','rights-filter','clear-filters'];\n"
+            "const elements = Object.fromEntries(ids.map(id => [id, {hidden:id==='catalogue-error',textContent:'Loading the catalogue…',value:'',replaceChildren(){},addEventListener(){}}]));\n"
+            "global.document = {readyState:'complete', getElementById(id){return elements[id];}, createElement(){return {append(){},setAttribute(){},textContent:'',value:'',className:''};}};\n"
+            "const api = globalThis.CatalogueBrowser;\n"
+            "async function checkFailure(response){\n"
+            "  elements['catalogue-error'].hidden=true; elements['results-count'].textContent='Loading the catalogue…';\n"
+            "  global.fetch = response; await api.loadCatalogue();\n"
+            "  assert.equal(elements['catalogue-error'].hidden,false);\n"
+            "  assert.equal(elements['results-count'].textContent,'The catalogue could not be loaded.');\n"
+            "}\n"
+            "(async()=>{\n"
+            "  await checkFailure(async()=>{throw new TypeError('offline')});\n"
+            "  await checkFailure(async()=>({ok:false,status:503}));\n"
+            "  await checkFailure(async()=>({ok:true,json:async()=>{throw new SyntaxError('bad JSON')}}));\n"
+            "  await checkFailure(async()=>({ok:true,json:async()=>({not:'an array'})}));\n"
+            "})().catch(error=>{console.error(error);process.exitCode=1});\n"
+        )
 
     def test_curator_credit_and_jurisdiction_caution_are_present(self):
         self.assertTrue(HTML.is_file(), "root homepage must exist")
@@ -185,12 +214,26 @@ class CatalogueBrowserContractTests(unittest.TestCase):
 
     def test_result_renderer_uses_text_content_and_item_rights_urls(self):
         self.assertTrue(JS.is_file(), "catalogue JavaScript must exist")
-        source = JS.read_text(encoding="utf-8")
-        self.assertIn("document.createElement", source)
-        self.assertIn("textContent", source)
-        self.assertIn("record.item_url", source)
-        self.assertIn("record.rights_url", source)
-        self.assertNotIn("innerHTML", source)
+        self.run_node(
+            "const assert = require('node:assert/strict');\n"
+            "class Element {\n"
+            "  constructor(tag){this.tagName=tag;this.children=[];this.attributes={};this.className='';this._text='';}\n"
+            "  append(...children){this.children.push(...children);}\n"
+            "  setAttribute(name,value){this.attributes[name]=value;}\n"
+            "  set textContent(value){this.children=[];this._text=String(value);}\n"
+            "  get textContent(){return this._text+this.children.map(child=>child.textContent).join('');}\n"
+            "}\n"
+            "global.document={createElement(tag){return new Element(tag);}};\n"
+            "const record={title:'Map <script>not markup</script>',description:'A described record',creator:null,year:null,category:'Historical Maps & Atlases',institution:'Archive',region:'Cuba',rights_status:'Public Domain — United States',rights_evidence:'Exact rights note <img src=x>',item_url:'https://example.org/item/1',rights_url:'https://example.org/rights/1'};\n"
+            "const card=globalThis.CatalogueBrowser.renderRecord(record);\n"
+            "function descendants(node,tag){return [...(node.tagName===tag?[node]:[]),...node.children.flatMap(child=>descendants(child,tag))];}\n"
+            "const title=descendants(card,'h2')[0];assert.equal(title.textContent,record.title);\n"
+            "assert.equal(descendants(card,'script').length,0);assert.equal(descendants(card,'img').length,0);\n"
+            "assert.equal(descendants(card,'p').some(node=>node.textContent==='null'),false);\n"
+            "assert.equal(descendants(card,'p').some(node=>node.textContent===record.rights_status),true);\n"
+            "assert.equal(descendants(card,'p').some(node=>node.textContent===record.rights_evidence),true);\n"
+            "const links=descendants(card,'a');assert.deepEqual(links.map(link=>[link.textContent,link.href,link.target,link.rel,link.attributes['aria-label']]),[[`Item record`,record.item_url,'_blank','noopener noreferrer','Item record: '+record.title],[`Rights evidence`,record.rights_url,'_blank','noopener noreferrer','Rights evidence: '+record.title]]);\n"
+        )
 
     def test_styles_include_visible_focus_and_mobile_layout(self):
         self.assertTrue(CSS.is_file(), "catalogue stylesheet must exist")
@@ -209,7 +252,7 @@ class CatalogueBrowserContractTests(unittest.TestCase):
         end = readme.index(END) + len(END)
         outside = readme[:begin] + readme[end:]
         generated = readme[begin:end]
-        self.assertRegex(outside, r"\[Browse the interactive catalogue\]\(index\.html\)")
+        self.assertRegex(outside, r"\[Browse the interactive catalogue\]\(https://melvinvarghese\.github\.io/awesome-public-domain-treasures/\)")
         self.assertIn("Curated by Melvin Varghese", outside)
         self.assertNotIn("Browse the interactive catalogue", generated)
         self.assertNotIn("Curated by Melvin Varghese", generated)

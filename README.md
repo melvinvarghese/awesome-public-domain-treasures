@@ -10,7 +10,7 @@ This first edition brings together **68 individually researched treasures in 12 
 
 > **Check rights before reuse.** Public-domain assessments differ by jurisdiction and asset. CC0, an institutional Public Domain Mark and a United States-only copyright statement have different scopes. Each entry links to evidence; the Met’s eligible images additionally fall under its CC0 policy. Read [Copyright and rights](COPYRIGHT_AND_RIGHTS.md). This catalogue is not legal advice.
 
-[Browse the interactive catalogue](index.html). Curated by Melvin Varghese.
+[Browse the interactive catalogue](https://melvinvarghese.github.io/awesome-public-domain-treasures/). Curated by Melvin Varghese.
 
 ## Explore
 
