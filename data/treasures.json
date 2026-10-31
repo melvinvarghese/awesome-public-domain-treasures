@@ -62,7 +62,7 @@
     ],
     "region": "Europe — France",
     "tags": [
-      "book-history",
+      "book history",
       "illumination",
       "printing"
     ],
@@ -110,7 +110,7 @@
     "tags": [
       "scroll",
       "parchment",
-      "Ethiopian-art"
+      "Ethiopian art"
     ],
     "date_verified": "2026-10-30"
   },
@@ -130,7 +130,7 @@
       "TIFF",
       "IIIF"
     ],
-    "region": "Europe (France); subject: Africa",
+    "region": "Europe — France; subject: Africa",
     "tags": [
       "Africa",
       "teaching",
@@ -154,7 +154,7 @@
       "TIFF",
       "IIIF"
     ],
-    "region": "North America (United States); subject: Caribbean",
+    "region": "North America — United States; subject: Caribbean",
     "tags": [
       "Cuba",
       "Caribbean",
@@ -178,7 +178,7 @@
       "TIFF",
       "IIIF"
     ],
-    "region": "Europe (England); subject: East Asia",
+    "region": "Europe — England; subject: East Asia",
     "tags": [
       "cartography",
       "China",
@@ -201,7 +201,7 @@
     "formats": [
       "IIIF"
     ],
-    "region": "Europe (Antwerp); subject: world",
+    "region": "Europe — Antwerp; subject: world",
     "tags": [
       "atlas",
       "cartography"
@@ -244,7 +244,7 @@
     "rights_url": "https://content.www.wellcomecollection.org/works/cbn45tvd",
     "rights_evidence": "The item record explicitly applies the Creative Commons Public Domain Mark to this digitized work.",
     "formats": [],
-    "region": "Europe (Britain)",
+    "region": "Europe — Britain",
     "tags": [
       "astronomy",
       "education",
@@ -267,7 +267,7 @@
     "formats": [
       "IIIF"
     ],
-    "region": "Europe (Netherlands)",
+    "region": "Europe — Netherlands",
     "tags": [
       "cosmology",
       "atlas",
@@ -313,7 +313,7 @@
     "formats": [
       "IIIF"
     ],
-    "region": "Europe (Italy)",
+    "region": "Europe — Italy",
     "tags": [
       "astronomy",
       "telescope",
@@ -336,7 +336,7 @@
     "formats": [
       "IIIF"
     ],
-    "region": "Europe (Germany)",
+    "region": "Europe — Germany",
     "tags": [
       "stars",
       "atlas",
@@ -361,7 +361,7 @@
       "JPEG 2000",
       "Text"
     ],
-    "region": "South Asia (India; colonial-era publication)",
+    "region": "South Asia — India; colonial-era publication",
     "tags": [
       "birds",
       "Darjeeling",
@@ -386,7 +386,7 @@
       "JPEG 2000",
       "Text"
     ],
-    "region": "South Asia (India; colonial-era publication)",
+    "region": "South Asia — India; colonial-era publication",
     "tags": [
       "birds",
       "India",
@@ -409,7 +409,7 @@
     "formats": [
       "IIIF"
     ],
-    "region": "Europe (Germany and Austria)",
+    "region": "Europe — Germany and Austria",
     "tags": [
       "natural history",
       "illustration",
@@ -432,7 +432,7 @@
     "formats": [
       "IIIF"
     ],
-    "region": "Europe (France)",
+    "region": "Europe — France",
     "tags": [
       "botany",
       "illustration",
@@ -476,7 +476,7 @@
     "rights_url": "https://content.www.wellcomecollection.org/works/apmaw56u",
     "rights_evidence": "The item record explicitly applies the Creative Commons Public Domain Mark to this digitized work.",
     "formats": [],
-    "region": "Europe (Britain)",
+    "region": "Europe — Britain",
     "tags": [
       "microscopy",
       "natural history",
@@ -499,7 +499,7 @@
     "formats": [
       "IIIF"
     ],
-    "region": "Europe (Italy)",
+    "region": "Europe — Italy",
     "tags": [
       "microscopy",
       "biology",
@@ -520,7 +520,7 @@
     "rights_url": "https://wellcomecollection.org/works/ytv5whr6",
     "rights_evidence": "The item record explicitly applies the Creative Commons Public Domain Mark to this digitized work.",
     "formats": [],
-    "region": "Europe (Britain)",
+    "region": "Europe — Britain",
     "tags": [
       "evolution",
       "biology",
@@ -541,7 +541,7 @@
     "rights_url": "https://wellcomecollection.org/works/bhkrk934",
     "rights_evidence": "The item record explicitly applies the Creative Commons Public Domain Mark to this digitized work.",
     "formats": [],
-    "region": "Europe (Britain)",
+    "region": "Europe — Britain",
     "tags": [
       "physics",
       "mathematics",
@@ -610,7 +610,7 @@
     "formats": [
       "JPEG"
     ],
-    "region": "Europe",
+    "region": "Europe — France",
     "tags": [
       "landscape",
       "painting",
@@ -729,7 +729,7 @@
     "tags": [
       "Benin",
       "brass",
-      "court-art"
+      "court art"
     ],
     "date_verified": "2026-10-30"
   },
@@ -752,7 +752,7 @@
     "tags": [
       "Chola",
       "sculpture",
-      "Hindu-art"
+      "Hindu art"
     ],
     "date_verified": "2026-10-30"
   },
@@ -773,7 +773,7 @@
     ],
     "region": "Europe — France",
     "tags": [
-      "still-life",
+      "still life",
       "painting",
       "plants"
     ],
@@ -817,7 +817,7 @@
     "formats": [
       "JPEG"
     ],
-    "region": "Europe",
+    "region": "Europe — France",
     "tags": [
       "landscape",
       "painting",
@@ -840,7 +840,7 @@
     "formats": [
       "JPEG"
     ],
-    "region": "Japan",
+    "region": "East Asia — Japan",
     "tags": [
       "albumen print",
       "landscape",
@@ -863,7 +863,7 @@
     "formats": [
       "JPEG"
     ],
-    "region": "India",
+    "region": "South Asia — India",
     "tags": [
       "medicine",
       "laboratory",
@@ -886,7 +886,7 @@
     "formats": [
       "JPEG"
     ],
-    "region": "China",
+    "region": "East Asia — China",
     "tags": [
       "portraiture",
       "dress",
@@ -909,7 +909,7 @@
     "formats": [
       "JPEG"
     ],
-    "region": "Egypt",
+    "region": "North Africa — Egypt",
     "tags": [
       "Nile",
       "architecture",
@@ -932,7 +932,7 @@
     "formats": [
       "JPEG"
     ],
-    "region": "India",
+    "region": "South Asia — India",
     "tags": [
       "architecture",
       "Taj Mahal"
@@ -956,7 +956,7 @@
       "EPUB",
       "Plain text"
     ],
-    "region": "Ireland / United Kingdom",
+    "region": "Europe — Ireland / United Kingdom",
     "tags": [
       "fairy tales",
       "short fiction"
@@ -980,7 +980,7 @@
       "EPUB",
       "Plain text"
     ],
-    "region": "United States",
+    "region": "North America — United States",
     "tags": [
       "African American literature",
       "abolition"
@@ -1004,7 +1004,7 @@
       "EPUB",
       "Plain text"
     ],
-    "region": "India",
+    "region": "South Asia — India",
     "tags": [
       "Bengali literature",
       "poetry",
@@ -1029,7 +1029,7 @@
       "EPUB",
       "Plain text"
     ],
-    "region": "United States",
+    "region": "North America — United States",
     "tags": [
       "autobiography",
       "African American literature",
@@ -1054,7 +1054,7 @@
       "EPUB",
       "Plain text"
     ],
-    "region": "Philippines",
+    "region": "Southeast Asia — Philippines",
     "tags": [
       "Spanish language",
       "colonial history",
@@ -1104,7 +1104,7 @@
       "EPUB",
       "Plain text"
     ],
-    "region": "Lebanon / United States",
+    "region": "West Asia — Lebanon; North America — United States",
     "tags": [
       "prose poetry",
       "illustrated books"
@@ -1128,7 +1128,7 @@
       "EPUB",
       "Plain text"
     ],
-    "region": "Iran / United Kingdom",
+    "region": "West Asia — Iran; Europe — United Kingdom",
     "tags": [
       "Persian poetry",
       "translation",
@@ -1153,7 +1153,7 @@
       "EPUB",
       "Plain text"
     ],
-    "region": "United States",
+    "region": "North America — United States",
     "tags": [
       "African American literature",
       "essays",
@@ -1176,7 +1176,7 @@
     "formats": [
       "Online page images"
     ],
-    "region": "United Kingdom / United States",
+    "region": "Europe — United Kingdom; North America — United States",
     "tags": [
       "sheet music",
       "cycling",
@@ -1200,7 +1200,7 @@
       "PDF",
       "Images"
     ],
-    "region": "United States",
+    "region": "North America — United States",
     "tags": [
       "musical theatre",
       "sheet music"
@@ -1223,7 +1223,7 @@
       "PDF",
       "Images"
     ],
-    "region": "United States",
+    "region": "North America — United States",
     "tags": [
       "musical theatre",
       "sheet music"
@@ -1246,7 +1246,7 @@
       "PDF",
       "Images"
     ],
-    "region": "United States",
+    "region": "North America — United States",
     "tags": [
       "African American music",
       "musical theatre"
@@ -1269,7 +1269,7 @@
       "PDF",
       "Images"
     ],
-    "region": "United States",
+    "region": "North America — United States",
     "tags": [
       "sheet music",
       "popular music"
@@ -1291,7 +1291,7 @@
     "formats": [
       "IIIF"
     ],
-    "region": "Europe (Britain)",
+    "region": "Europe — Britain",
     "tags": [
       "steam",
       "engineering",
@@ -1314,7 +1314,7 @@
     "formats": [
       "IIIF"
     ],
-    "region": "Europe (France; Italian author)",
+    "region": "Europe — France; Italian author",
     "tags": [
       "machines",
       "engineering",
@@ -1337,7 +1337,7 @@
     "formats": [
       "IIIF"
     ],
-    "region": "Europe (Britain)",
+    "region": "Europe — Britain",
     "tags": [
       "steam",
       "navigation",
@@ -1360,7 +1360,7 @@
     "formats": [
       "IIIF"
     ],
-    "region": "Europe (France)",
+    "region": "Europe — France",
     "tags": [
       "machines",
       "engineering",
@@ -1385,7 +1385,7 @@
     ],
     "region": "West Africa — Mali, Inland Niger Delta",
     "tags": [
-      "Middle-Niger",
+      "Middle Niger",
       "equestrian",
       "metalwork"
     ],
@@ -1456,7 +1456,7 @@
     "tags": [
       "portrait",
       "encaustic",
-      "Roman-Egypt"
+      "Roman Egypt"
     ],
     "date_verified": "2026-10-30"
   },
@@ -1546,7 +1546,7 @@
       "EPUB",
       "Plain text"
     ],
-    "region": "Japan",
+    "region": "East Asia — Japan",
     "tags": [
       "tea",
       "aesthetics",

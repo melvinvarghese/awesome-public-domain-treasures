@@ -1,5 +1,11 @@
 # Changelog
 
+## Unreleased
+
+- Normalized `region` values to a consistent `Continent — place` form and unified hyphenated tags (for example `still life`, `court art`). No rendered README text changed.
+- Rewrote GETTING_STARTED.md for local clones instead of ZIP uploads, and removed ZIP-only wording from the README and rights guide.
+- Added a quarterly **Link audit** workflow that attaches its report as an artifact, Dependabot updates for GitHub Actions, workflow concurrency and manual triggers, and an `.editorconfig`.
+
 ## 1.0.0 — 2026-10-30
 
 - Curated 68 individual treasures across all 12 categories, with primary item records, rights evidence and verification dates.

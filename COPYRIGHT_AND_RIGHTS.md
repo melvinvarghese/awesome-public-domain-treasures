@@ -24,7 +24,7 @@ Open the current item record and its rights statement before downloading. Check 
 
 ## Repository license
 
-The [MIT license](LICENSE) covers the project's original editorial writing, selection and arrangement to the extent protected, Python code, schema and original SVG banner. It does **not** apply to linked third-party works, institutional websites, source metadata beyond rights the project holds, institutional logos or third-party reproductions. The ZIP contains a catalogue and project files; it does not redistribute the linked heritage assets. Factual metadata is recorded for identification and source attribution.
+The [MIT license](LICENSE) covers the project's original editorial writing, selection and arrangement to the extent protected, Python code, schema and original SVG banner. It does **not** apply to linked third-party works, institutional websites, source metadata beyond rights the project holds, institutional logos or third-party reproductions. The repository contains a catalogue and project files; it does not redistribute the linked heritage assets. Factual metadata is recorded for identification and source attribution.
 
 ## Primary guidance
 

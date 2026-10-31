@@ -58,7 +58,7 @@ python3 -m unittest discover -s scripts -p 'test_*.py'
 python3 scripts/check_external_links.py
 ```
 
-The first three commands are offline, standard-library checks for Python 3.11+. The last command uses network access and may take several minutes. GitHub Actions has been supplied but has not run on GitHub because this project was not published.
+The first three commands are offline, standard-library checks for Python 3.11+. The last command uses network access and may take several minutes. When this report was written, GitHub Actions had not yet run because the project was unpublished; the repository is now on GitHub, so check the Actions tab for current results.
 
 ## Independent review
 

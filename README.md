@@ -458,9 +458,9 @@ python3 scripts/validate.py
 python3 -m unittest discover -s scripts -p 'test_*.py'
 ```
 
-The included GitHub Actions workflow runs structural checks on pushes and pull requests. It does not run external requests or decide copyright status. To perform an optional reachability audit, run `python3 scripts/check_external_links.py`; it records redirects, HTTP failures, likely bot protection and rate limits without deleting entries.
+The included GitHub Actions workflow runs structural checks on pushes to `main` and on pull requests. It does not run external requests or decide copyright status. To perform an optional reachability audit locally, run `python3 scripts/check_external_links.py`; it records redirects, HTTP failures, likely bot protection and rate limits without deleting entries.
 
-Maintainers should review link reports quarterly and revisit rights evidence annually, recording changes in [CHANGELOG.md](CHANGELOG.md). These are recommended duties for the future maintainer, not a promise of an operating service. See [GETTING_STARTED.md](GETTING_STARTED.md) for uploading the extracted files through GitHub’s website; no connected account is needed to use this bundle.
+Maintainers should review link reports quarterly and revisit rights evidence annually, recording changes in [CHANGELOG.md](CHANGELOG.md). These are recommended duties for the future maintainer, not a promise of an operating service. See [GETTING_STARTED.md](GETTING_STARTED.md) for local setup. A scheduled **Link audit** workflow runs the reachability check each quarter and attaches its report to the run.
 
 ## Research and quality
 
