@@ -121,7 +121,7 @@ class CatalogueBrowserContractTests(unittest.TestCase):
         text = self.parser.text_content()
         self.assertIn("Curated by Melvin Varghese", text)
         for phrase in (
-            "Check rights before reuse",
+            "Check rights before reuse.",
             "Public-domain assessments differ by jurisdiction and asset.",
             "CC0, an institutional Public Domain Mark and a United States-only copyright statement have different scopes.",
             "Each entry links to evidence; the Met’s eligible images additionally fall under its CC0 policy.",
