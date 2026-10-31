@@ -3,6 +3,7 @@
 ## Unreleased
 
 - Normalized `region` values to a consistent `Continent — place` form and unified hyphenated tags (for example `still life`, `court art`). No rendered README text changed.
+- The validator now checks that the README headline count matches the data and that tags use spaces rather than hyphens, with regression tests.
 - Rewrote GETTING_STARTED.md for local clones instead of ZIP uploads, and removed ZIP-only wording from the README and rights guide.
 - Added a quarterly **Link audit** workflow that attaches its report as an artifact, Dependabot updates for GitHub Actions, workflow concurrency and manual triggers, and an `.editorconfig`.
 

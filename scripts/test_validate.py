@@ -4,7 +4,7 @@ import json
 from pathlib import Path
 import tempfile
 import unittest
-from validate import validate_entries, valid_url, check_links
+from validate import validate_entries, valid_url, check_links, check_headline_counts
 
 
 class ValidationTests(unittest.TestCase):
@@ -44,6 +44,15 @@ class ValidationTests(unittest.TestCase):
         for category in ([], {}, None, 42):
             with self.subTest(category=category):
                 self.assertTrue(self.changed(category=category))
+
+    def test_rejects_hyphenated_tags(self):
+        self.assertTrue(self.changed(tags=["court-art"]))
+
+    def test_headline_counts_must_match_data(self):
+        readme = "**68 individually researched treasures in 12 categories**"
+        self.assertEqual(check_headline_counts(readme, self.entries), [])
+        self.assertTrue(check_headline_counts(readme.replace("68", "70"), self.entries))
+        self.assertTrue(check_headline_counts("no count here", self.entries))
 
     def test_url_validation(self):
         for bad in ["http://example.org/a", "https://", "https://user:password@example.org", "https://example.org/a b", "https://example.org:bad"]:

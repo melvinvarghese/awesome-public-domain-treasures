@@ -55,6 +55,8 @@ def validate_entries(entries):
                 errors.append(label + ": invalid " + field)
             elif len(set(a)) != len(a):
                 errors.append(label + ": repeated " + field)
+            elif field == "tags" and any(re.search(r"[-_]|^\s|\s$", v) for v in a):
+                errors.append(label + ": tags use spaces, not hyphens or underscores")
         ident = e.get("id")
         if not isinstance(ident, str) or not re.fullmatch(r"[a-z0-9]+(?:-[a-z0-9]+)*", ident):
             errors.append(label + ": invalid id")
@@ -87,6 +89,15 @@ def validate_entries(entries):
     if missing:
         errors.append("Categories without entries: " + ", ".join(sorted(missing)))
     return errors
+
+
+def check_headline_counts(readme, entries):
+    match = re.search(r"\*\*(\d+) individually researched treasures in (\d+) categories\*\*", readme)
+    if not match:
+        return ["README headline count sentence not found"]
+    if (int(match[1]), int(match[2])) != (len(entries), len(CATEGORIES)):
+        return [f"README headline says {match[1]} treasures in {match[2]} categories; data has {len(entries)} in {len(CATEGORIES)}"]
+    return []
 
 
 def anchors(text):
@@ -134,7 +145,9 @@ def main():
         readme = (ROOT / "README.md").read_text(encoding="utf-8")
         if readme.count(START) != 1 or readme.count(END) != 1:
             errors.append("README catalogue markers missing or repeated")
-        elif not errors and readme.split(START, 1)[1].split(END, 1)[0] != render(entries).split(START, 1)[1].split(END, 1)[0]:
+        else:
+            errors += check_headline_counts(readme, entries)
+        if readme.count(START) == 1 and readme.count(END) == 1 and not errors and readme.split(START, 1)[1].split(END, 1)[0] != render(entries).split(START, 1)[1].split(END, 1)[0]:
             errors.append("README differs from data: run python scripts/build_readme.py")
         errors += check_links(ROOT)
         svg = ET.parse(ROOT / "assets/banner.svg")
