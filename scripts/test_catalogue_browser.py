@@ -4,6 +4,7 @@ import subprocess
 import unittest
 from html.parser import HTMLParser
 from pathlib import Path
+from catalogue import START, END, render
 
 ROOT = Path(__file__).resolve().parents[1]
 HTML = ROOT / "index.html"
@@ -199,6 +200,21 @@ class CatalogueBrowserContractTests(unittest.TestCase):
         self.assertRegex(source, r"grid-template-columns:\s*1fr")
         self.assertRegex(source, r"min-height:\s*44px")
         self.assertIn("prefers-reduced-motion", source)
+
+    def test_readme_browser_link_and_credit_are_outside_generated_markers(self):
+        readme = (ROOT / "README.md").read_text(encoding="utf-8")
+        self.assertEqual(readme.count(START), 1)
+        self.assertEqual(readme.count(END), 1)
+        begin = readme.index(START)
+        end = readme.index(END) + len(END)
+        outside = readme[:begin] + readme[end:]
+        generated = readme[begin:end]
+        self.assertRegex(outside, r"\[Browse the interactive catalogue\]\(index\.html\)")
+        self.assertIn("Curated by Melvin Varghese", outside)
+        self.assertNotIn("Browse the interactive catalogue", generated)
+        self.assertNotIn("Curated by Melvin Varghese", generated)
+        entries = json.loads(DATA.read_text(encoding="utf-8"))
+        self.assertEqual(generated, render(entries))
 
 
 if __name__ == "__main__":
