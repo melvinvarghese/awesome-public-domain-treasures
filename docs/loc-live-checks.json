@@ -1,0 +1,30 @@
+[
+  {
+    "id": "loc-score-2016785448",
+    "url": "https://www.loc.gov/item/2016785448/",
+    "http_status": 200,
+    "bytes": 167537,
+    "explicit_public_domain_text": true
+  },
+  {
+    "id": "loc-score-2016769215",
+    "url": "https://www.loc.gov/item/2016769215/",
+    "http_status": 200,
+    "bytes": 167509,
+    "explicit_public_domain_text": true
+  },
+  {
+    "id": "loc-score-2016790970",
+    "url": "https://www.loc.gov/item/2016790970/",
+    "http_status": 200,
+    "bytes": 169517,
+    "explicit_public_domain_text": true
+  },
+  {
+    "id": "loc-score-2023852492",
+    "url": "https://www.loc.gov/item/2023852492/",
+    "http_status": 200,
+    "bytes": 163885,
+    "explicit_public_domain_text": true
+  }
+]

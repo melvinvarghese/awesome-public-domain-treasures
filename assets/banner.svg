@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Awesome Public Domain Treasures</title>
+  <desc id="desc">An open book and an orbital compass on dark blue, beside the project title and the words Discover, explore, and reuse the world's cultural heritage.</desc>
+  <rect width="1280" height="360" rx="18" fill="#102a38"/>
+  <path d="M0 324H1280" stroke="#37515b"/>
+  <circle cx="1110" cy="174" r="126" fill="none" stroke="#35525c"/>
+  <ellipse cx="1110" cy="174" rx="126" ry="48" fill="none" stroke="#35525c" transform="rotate(-35 1110 174)"/>
+  <path d="M1110 38V310M974 174H1246" stroke="#35525c"/>
+  <path d="M1026 130Q1068 114 1110 137Q1152 114 1194 130V229Q1152 211 1110 237Q1068 211 1026 229Z" fill="#f1e4c9"/>
+  <path d="M1110 137V237M1043 151Q1069 144 1094 154M1043 171Q1069 164 1094 174M1126 154Q1153 144 1177 151M1126 174Q1153 164 1177 171" fill="none" stroke="#a28150" stroke-width="3"/>
+  <circle cx="1178" cy="72" r="6" fill="#dda964"/>
+  <text x="70" y="77" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="4" fill="#dda964">A CURATED DIGITAL CABINET</text>
+  <text x="68" y="150" font-family="Georgia, serif" font-size="54" fill="#fff5df">Awesome Public Domain</text>
+  <text x="68" y="213" font-family="Georgia, serif" font-size="54" fill="#fff5df">Treasures</text>
+  <text x="70" y="274" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#c5d3d6">Discover, explore, and reuse the world's cultural heritage.</text>
+  <text x="70" y="347" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2" fill="#b3c6cb">ART · SCIENCE · MAPS · MANUSCRIPTS · MUSIC</text>
+</svg>

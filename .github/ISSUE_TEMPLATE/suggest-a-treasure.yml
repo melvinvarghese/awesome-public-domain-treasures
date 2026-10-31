@@ -1,0 +1,36 @@
+name: Suggest a treasure
+description: Propose a remarkable work with primary rights evidence.
+title: '[Treasure] '
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Title and creator
+    validations:
+      required: true
+  - type: input
+    id: record
+    attributes:
+      label: Institutional item record URL
+    validations:
+      required: true
+  - type: textarea
+    id: rights
+    attributes:
+      label: Rights evidence and URL
+      description: Explain the explicit public-domain statement or CC0 scope, including edition or reproduction and jurisdiction.
+    validations:
+      required: true
+  - type: textarea
+    id: discovery
+    attributes:
+      label: Why is this a treasure?
+      description: Suggest a category, cultural origin, date and a short original description. Mark unknown metadata honestly.
+    validations:
+      required: true
+  - type: input
+    id: checked
+    attributes:
+      label: Date checked and access limitations
+    validations:
+      required: true

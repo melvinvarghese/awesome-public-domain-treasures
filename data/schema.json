@@ -1,0 +1,125 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Public-domain treasures catalogue",
+  "description": "Structural schema only; rights assertions require primary-source review. year is the creation/publication period of the linked work, never the ebook release date. region describes cultural origin, not holding institution. Empty formats means availability was not independently established.",
+  "type": "array",
+  "minItems": 1,
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+      "id",
+      "title",
+      "description",
+      "institution",
+      "rights_evidence",
+      "region",
+      "creator",
+      "year",
+      "item_url",
+      "rights_url",
+      "formats",
+      "tags",
+      "category",
+      "rights_status",
+      "date_verified"
+    ],
+    "properties": {
+      "id": {
+        "type": "string",
+        "minLength": 1,
+        "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+      },
+      "title": {
+        "type": "string",
+        "minLength": 1
+      },
+      "description": {
+        "type": "string",
+        "minLength": 1
+      },
+      "institution": {
+        "type": "string",
+        "minLength": 1
+      },
+      "rights_evidence": {
+        "type": "string",
+        "minLength": 1
+      },
+      "region": {
+        "type": "string",
+        "minLength": 1
+      },
+      "creator": {
+        "type": [
+          "string",
+          "null"
+        ],
+        "minLength": 1
+      },
+      "year": {
+        "type": [
+          "string",
+          "null"
+        ],
+        "minLength": 1
+      },
+      "item_url": {
+        "type": "string",
+        "format": "uri",
+        "pattern": "^https://[^\\s<>]+$"
+      },
+      "rights_url": {
+        "type": "string",
+        "format": "uri",
+        "pattern": "^https://[^\\s<>]+$"
+      },
+      "formats": {
+        "type": "array",
+        "uniqueItems": true,
+        "items": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "tags": {
+        "type": "array",
+        "uniqueItems": true,
+        "items": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "category": {
+        "type": "string",
+        "enum": [
+          "Rare Books & Manuscripts",
+          "Historical Maps & Atlases",
+          "Astronomy & Celestial Charts",
+          "Botanical & Zoological Illustrations",
+          "Scientific Discoveries & Publications",
+          "Art, Prints & Illustrations",
+          "Historical Photography",
+          "Literature & Poetry",
+          "Music & Musical Scores",
+          "Engineering, Inventions & Technical Drawings",
+          "Ancient Civilizations & Historical Documents",
+          "Unusual & Forgotten Treasures"
+        ]
+      },
+      "rights_status": {
+        "type": "string",
+        "enum": [
+          "CC0",
+          "Public Domain",
+          "Public Domain \u2014 United States"
+        ]
+      },
+      "date_verified": {
+        "type": "string",
+        "format": "date",
+        "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"
+      }
+    }
+  }
+}

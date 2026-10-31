@@ -1,0 +1,1580 @@
+[
+  {
+    "id": "met-451683",
+    "title": "Bifolium from a Qur'an Manuscript",
+    "creator": null,
+    "year": "15th century",
+    "category": "Rare Books & Manuscripts",
+    "description": "A Qur'an bifolium combines Arabic text with diagonally arranged Persian translations, framed by colorful calligraphy and ornament.",
+    "institution": "The Metropolitan Museum of Art",
+    "item_url": "https://www.metmuseum.org/art/collection/search/451683",
+    "rights_status": "Public Domain",
+    "rights_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/451683",
+    "rights_evidence": "Official item API reports isPublicDomain: true and supplies an image URL. The Met Open Access policy places eligible images under CC0.",
+    "formats": [
+      "JPEG"
+    ],
+    "region": "South Asia — India, probably Gujarat",
+    "tags": [
+      "manuscript",
+      "calligraphy",
+      "translation"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "met-456074",
+    "title": "Bifolium from the \"Nurse's Qur'an\" (Mushaf al-Hadina)",
+    "creator": null,
+    "year": "ca. 410 AH/1019–20 CE",
+    "category": "Rare Books & Manuscripts",
+    "description": "A parchment bifolium preserves a portion of the manuscript known as the Nurse's Qur'an, a striking example of medieval North African book arts.",
+    "institution": "The Metropolitan Museum of Art",
+    "item_url": "https://www.metmuseum.org/art/collection/search/456074",
+    "rights_status": "Public Domain",
+    "rights_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/456074",
+    "rights_evidence": "Official item API reports isPublicDomain: true and supplies an image URL. The Met Open Access policy places eligible images under CC0.",
+    "formats": [
+      "JPEG"
+    ],
+    "region": "North Africa — Tunisia, probably Qairawan",
+    "tags": [
+      "manuscript",
+      "calligraphy",
+      "parchment"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "met-468941",
+    "title": "Book of Hours",
+    "creator": "Gilles Hardouyn (publisher); Germain Hardouyn (artist)",
+    "year": "1518–21",
+    "category": "Rare Books & Manuscripts",
+    "description": "A Book of Hours joins printed illustration and hand illumination, revealing a meeting point between manuscript craft and early book production.",
+    "institution": "The Metropolitan Museum of Art",
+    "item_url": "https://www.metmuseum.org/art/collection/search/468941",
+    "rights_status": "Public Domain",
+    "rights_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/468941",
+    "rights_evidence": "Official item API reports isPublicDomain: true and supplies an image URL. The Met Open Access policy places eligible images under CC0.",
+    "formats": [
+      "JPEG"
+    ],
+    "region": "Europe — France",
+    "tags": [
+      "book-history",
+      "illumination",
+      "printing"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "met-684184",
+    "title": "Book of Hours",
+    "creator": "Simon Bening",
+    "year": "ca. 1530–35",
+    "category": "Rare Books & Manuscripts",
+    "description": "Simon Bening compresses an illuminated devotional world into a tiny parchment book; the record offers images of selected openings.",
+    "institution": "The Metropolitan Museum of Art",
+    "item_url": "https://www.metmuseum.org/art/collection/search/684184",
+    "rights_status": "Public Domain",
+    "rights_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/684184",
+    "rights_evidence": "Official item API reports isPublicDomain: true and supplies an image URL. The Met Open Access policy places eligible images under CC0.",
+    "formats": [
+      "JPEG"
+    ],
+    "region": "Europe — present-day Belgium",
+    "tags": [
+      "illumination",
+      "parchment",
+      "devotion"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "met-320635",
+    "title": "Tälsäm or yä bərana kətab (healing scroll)",
+    "creator": null,
+    "year": "19th century",
+    "category": "Rare Books & Manuscripts",
+    "description": "Written prayers and painted talismans share a long parchment healing scroll, documenting a distinctive Ethiopian devotional tradition.",
+    "institution": "The Metropolitan Museum of Art",
+    "item_url": "https://www.metmuseum.org/art/collection/search/320635",
+    "rights_status": "Public Domain",
+    "rights_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/320635",
+    "rights_evidence": "Official item API reports isPublicDomain: true and supplies an image URL. The Met Open Access policy places eligible images under CC0.",
+    "formats": [
+      "JPEG"
+    ],
+    "region": "East Africa — Ethiopia",
+    "tags": [
+      "scroll",
+      "parchment",
+      "Ethiopian-art"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "brion-africa-1786",
+    "title": "Africa, prepared for the study of geography",
+    "creator": "Louis Brion de la Tour; Louis-Charles Desnos",
+    "year": "Possibly 1786",
+    "category": "Historical Maps & Atlases",
+    "description": "A hand-colored teaching map with a decorative border, useful for examining the presentation of Africa in eighteenth-century European atlases.",
+    "institution": "Texas A&M University Libraries",
+    "item_url": "https://digitalcollections.library.tamu.edu/do/e93eea73-e10a-4581-8766-86ae97b1aa8b",
+    "rights_status": "Public Domain — United States",
+    "rights_url": "https://digitalcollections.library.tamu.edu/do/e93eea73-e10a-4581-8766-86ae97b1aa8b",
+    "rights_evidence": "The item record labels this digitized map No Copyright - United States and explicitly limits its public-domain assessment to United States law.",
+    "formats": [
+      "TIFF",
+      "IIIF"
+    ],
+    "region": "Europe (France); subject: Africa",
+    "tags": [
+      "Africa",
+      "teaching",
+      "cartography"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "official-war-maps-1898",
+    "title": "Official war maps: Cuba and the West Indies",
+    "creator": "Rand McNally and Company (publisher)",
+    "year": "1898",
+    "category": "Historical Maps & Atlases",
+    "description": "A folding commercial map publication documenting how Cuba and the Caribbean were presented to readers during the Spanish-American War.",
+    "institution": "Texas A&M University Libraries",
+    "item_url": "https://digitalcollections.library.tamu.edu/do/4bb167b9-3bd6-400a-a0c6-690beeac8667",
+    "rights_status": "Public Domain — United States",
+    "rights_url": "https://digitalcollections.library.tamu.edu/do/4bb167b9-3bd6-400a-a0c6-690beeac8667",
+    "rights_evidence": "The item record labels this digitized map No Copyright - United States and explicitly limits its public-domain assessment to United States law.",
+    "formats": [
+      "TIFF",
+      "IIIF"
+    ],
+    "region": "North America (United States); subject: Caribbean",
+    "tags": [
+      "Cuba",
+      "Caribbean",
+      "cartography"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "speed-kingdome-china",
+    "title": "The kingdome of China",
+    "creator": "John Speed",
+    "year": "1626",
+    "category": "Historical Maps & Atlases",
+    "description": "A map framed by figures and city views; its depiction of Korea as an island reveals the limits of contemporary European cartography.",
+    "institution": "Texas A&M University Libraries",
+    "item_url": "https://digitalcollections.library.tamu.edu/do/8b54f836-f9f2-43f7-8eda-0d2b89ca6f5d",
+    "rights_status": "Public Domain — United States",
+    "rights_url": "https://digitalcollections.library.tamu.edu/do/8b54f836-f9f2-43f7-8eda-0d2b89ca6f5d",
+    "rights_evidence": "The item record labels this digitized map No Copyright - United States and explicitly limits its public-domain assessment to United States law.",
+    "formats": [
+      "TIFF",
+      "IIIF"
+    ],
+    "region": "Europe (England); subject: East Asia",
+    "tags": [
+      "cartography",
+      "China",
+      "early maps"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "ortelius-theatrum-1570",
+    "title": "Theatrum orbis terrarum",
+    "creator": "Abraham Ortelius; Franz Hogenberg",
+    "year": "1570",
+    "category": "Historical Maps & Atlases",
+    "description": "A colored atlas whose sequence of maps lets readers compare sixteenth-century representations of different parts of the world.",
+    "institution": "Zentralbibliothek Zürich / e-rara",
+    "item_url": "https://www.e-rara.ch/zuz/content/titleinfo/23011918",
+    "rights_status": "Public Domain",
+    "rights_url": "https://www.e-rara.ch/zuz/content/titleinfo/23011918",
+    "rights_evidence": "The item record explicitly applies the Creative Commons Public Domain Mark to this digitized work.",
+    "formats": [
+      "IIIF"
+    ],
+    "region": "Europe (Antwerp); subject: world",
+    "tags": [
+      "atlas",
+      "cartography"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "met-444408",
+    "title": "Astrolabe of ‘Umar ibn Yusuf ibn ‘Umar ibn ‘Ali ibn Rasul al-Muzaffari",
+    "creator": "‘Umar ibn Yusuf ibn ‘Umar ibn ‘Ali ibn Rasul al-Muzaffari",
+    "year": "dated 690 AH/1291 CE",
+    "category": "Astronomy & Celestial Charts",
+    "description": "A dated Yemeni astrolabe turns celestial calculation into a finely worked brass instrument with silver inlay.",
+    "institution": "The Metropolitan Museum of Art",
+    "item_url": "https://www.metmuseum.org/art/collection/search/444408",
+    "rights_status": "Public Domain",
+    "rights_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/444408",
+    "rights_evidence": "Official item API reports isPublicDomain: true and supplies an image URL. The Met Open Access policy places eligible images under CC0.",
+    "formats": [
+      "JPEG"
+    ],
+    "region": "West Asia — Yemen",
+    "tags": [
+      "astrolabe",
+      "astronomy",
+      "instrument"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "ferguson-astronomy-1794",
+    "title": "Astronomy explained upon Sir Isaac Newton’s principles",
+    "creator": "James Ferguson",
+    "year": "1794",
+    "category": "Astronomy & Celestial Charts",
+    "description": "The ninth edition of an illustrated astronomy textbook, offering a route into the diagrams and explanations used to teach Newtonian astronomy.",
+    "institution": "Wellcome Collection",
+    "item_url": "https://content.www.wellcomecollection.org/works/cbn45tvd",
+    "rights_status": "Public Domain",
+    "rights_url": "https://content.www.wellcomecollection.org/works/cbn45tvd",
+    "rights_evidence": "The item record explicitly applies the Creative Commons Public Domain Mark to this digitized work.",
+    "formats": [],
+    "region": "Europe (Britain)",
+    "tags": [
+      "astronomy",
+      "education",
+      "Newton"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "cellarius-harmonia-1661",
+    "title": "Harmonia macrocosmica",
+    "creator": "Andreas Cellarius",
+    "year": "1661",
+    "category": "Astronomy & Celestial Charts",
+    "description": "A colored celestial atlas presenting competing constructions of the cosmos alongside representations of the starry heavens.",
+    "institution": "Zentralbibliothek Zürich / e-rara",
+    "item_url": "https://www.e-rara.ch/zuz/content/titleinfo/25530248",
+    "rights_status": "Public Domain",
+    "rights_url": "https://www.e-rara.ch/zuz/content/titleinfo/25530248",
+    "rights_evidence": "The item record explicitly applies the Creative Commons Public Domain Mark to this digitized work.",
+    "formats": [
+      "IIIF"
+    ],
+    "region": "Europe (Netherlands)",
+    "tags": [
+      "cosmology",
+      "atlas",
+      "stars"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "met-451699",
+    "title": "Planispheric Astrolabe",
+    "creator": "Muhammad Zaman al-Munajjim al-Asturlabi",
+    "year": "dated 1065 AH/1654–55 CE",
+    "category": "Astronomy & Celestial Charts",
+    "description": "A pierced and engraved brass-and-steel astrolabe unites timekeeping with elaborate Safavid-period metalwork.",
+    "institution": "The Metropolitan Museum of Art",
+    "item_url": "https://www.metmuseum.org/art/collection/search/451699",
+    "rights_status": "Public Domain",
+    "rights_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/451699",
+    "rights_evidence": "Official item API reports isPublicDomain: true and supplies an image URL. The Met Open Access policy places eligible images under CC0.",
+    "formats": [
+      "JPEG"
+    ],
+    "region": "West Asia — Iran",
+    "tags": [
+      "astrolabe",
+      "astronomy",
+      "timekeeping"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "galileo-sidereus-1610",
+    "title": "Sidereus nuncius",
+    "creator": "Galileo Galilei",
+    "year": "1610",
+    "category": "Astronomy & Celestial Charts",
+    "description": "Galileo’s telescopic observations turn the Moon, stars, and the bodies orbiting Jupiter into evidence readers can inspect in an early printed report.",
+    "institution": "ETH-Bibliothek Zürich / e-rara",
+    "item_url": "https://www.e-rara.ch/zut/content/titleinfo/227751",
+    "rights_status": "Public Domain",
+    "rights_url": "https://www.e-rara.ch/zut/content/titleinfo/227751",
+    "rights_evidence": "The item record explicitly applies the Creative Commons Public Domain Mark to this digitized work.",
+    "formats": [
+      "IIIF"
+    ],
+    "region": "Europe (Italy)",
+    "tags": [
+      "astronomy",
+      "telescope",
+      "Moon"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "bayer-uranometria-1603",
+    "title": "Uranometria",
+    "creator": "Johann Bayer; Alexander Mair",
+    "year": "1603",
+    "category": "Astronomy & Celestial Charts",
+    "description": "An engraved star atlas joining constellation figures to mapped stars, ideal for exploring the visual language of early modern astronomy.",
+    "institution": "ETH-Bibliothek Zürich / e-rara",
+    "item_url": "https://www.e-rara.ch/zut/content/titleinfo/77412",
+    "rights_status": "Public Domain",
+    "rights_url": "https://www.e-rara.ch/zut/content/titleinfo/77412",
+    "rights_evidence": "The item record explicitly applies the Creative Commons Public Domain Mark to this digitized work.",
+    "formats": [
+      "IIIF"
+    ],
+    "region": "Europe (Germany)",
+    "tags": [
+      "stars",
+      "atlas",
+      "constellations"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "mackintosh-birds-darjeeling",
+    "title": "Birds of Darjeeling and India",
+    "creator": "L. J. Mackintosh",
+    "year": "1915",
+    "category": "Botanical & Zoological Illustrations",
+    "description": "A locally printed bird book with illustrations and indexes, offering a historical view of ornithological publishing in Calcutta.",
+    "institution": "Smithsonian Libraries and Archives / Biodiversity Heritage Library",
+    "item_url": "https://www.biodiversitylibrary.org/item/50146",
+    "rights_status": "Public Domain",
+    "rights_url": "https://www.biodiversitylibrary.org/item/50146",
+    "rights_evidence": "The item-specific Copyright & Usage section explicitly identifies the work as Public domain.",
+    "formats": [
+      "PDF",
+      "JPEG 2000",
+      "Text"
+    ],
+    "region": "South Asia (India; colonial-era publication)",
+    "tags": [
+      "birds",
+      "Darjeeling",
+      "natural history"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "finn-garden-birds-india",
+    "title": "Garden and aviary birds of India",
+    "creator": "Frank Finn",
+    "year": "1906",
+    "category": "Botanical & Zoological Illustrations",
+    "description": "An illustrated Calcutta publication on birds in gardens and aviaries, with plates and an index that support browsing across species.",
+    "institution": "Smithsonian Libraries and Archives / Biodiversity Heritage Library",
+    "item_url": "https://www.biodiversitylibrary.org/item/47645",
+    "rights_status": "Public Domain",
+    "rights_url": "https://www.biodiversitylibrary.org/item/47645",
+    "rights_evidence": "The item-specific Copyright & Usage section explicitly identifies the work as Public domain.",
+    "formats": [
+      "PDF",
+      "JPEG 2000",
+      "Text"
+    ],
+    "region": "South Asia (India; colonial-era publication)",
+    "tags": [
+      "birds",
+      "India",
+      "illustration"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "haeckel-kunstformen",
+    "title": "Kunstformen der Natur",
+    "creator": "Ernst Haeckel",
+    "year": "1899–1904",
+    "category": "Botanical & Zoological Illustrations",
+    "description": "Two volumes of illustrated natural forms invite close comparison of biological structures and the visual patterns used to present them.",
+    "institution": "ETH-Bibliothek Zürich / e-rara",
+    "item_url": "https://www.e-rara.ch/zut/doi/10.3931/e-rara-59154",
+    "rights_status": "Public Domain",
+    "rights_url": "https://www.e-rara.ch/zut/doi/10.3931/e-rara-59154",
+    "rights_evidence": "The item record explicitly applies the Creative Commons Public Domain Mark to this digitized work.",
+    "formats": [
+      "IIIF"
+    ],
+    "region": "Europe (Germany and Austria)",
+    "tags": [
+      "natural history",
+      "illustration",
+      "patterns"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "rousseau-redoute-botanique",
+    "title": "La botanique de J.-J. Rousseau",
+    "creator": "Jean-Jacques Rousseau; Pierre-Joseph Redouté",
+    "year": "1805",
+    "category": "Botanical & Zoological Illustrations",
+    "description": "Botanical letters and fragments accompanied by 65 color-printed plates after Redouté, bringing descriptive prose and plant illustration together.",
+    "institution": "Bibliothèque de Genève / e-rara",
+    "item_url": "https://www.e-rara.ch/gep_r/content/titleinfo/21234728",
+    "rights_status": "Public Domain",
+    "rights_url": "https://www.e-rara.ch/gep_r/content/titleinfo/21234728",
+    "rights_evidence": "The item record explicitly applies the Creative Commons Public Domain Mark to this digitized work.",
+    "formats": [
+      "IIIF"
+    ],
+    "region": "Europe (France)",
+    "tags": [
+      "botany",
+      "illustration",
+      "letters"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "met-322022",
+    "title": "Cuneiform tablet: fragment of a mathematical problem text",
+    "creator": null,
+    "year": "ca. late 1st millennium BCE",
+    "category": "Scientific Discoveries & Publications",
+    "description": "A fragmentary clay tablet carries a mathematical problem text, linking the history of calculation with the physical practice of writing.",
+    "institution": "The Metropolitan Museum of Art",
+    "item_url": "https://www.metmuseum.org/art/collection/search/322022",
+    "rights_status": "Public Domain",
+    "rights_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/322022",
+    "rights_evidence": "Official item API reports isPublicDomain: true and supplies an image URL. The Met Open Access policy places eligible images under CC0.",
+    "formats": [
+      "JPEG"
+    ],
+    "region": "West Asia — Mesopotamia",
+    "tags": [
+      "mathematics",
+      "cuneiform",
+      "clay"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "hooke-micrographia-1665",
+    "title": "Micrographia",
+    "creator": "Robert Hooke",
+    "year": "1665",
+    "category": "Scientific Discoveries & Publications",
+    "description": "An illustrated investigation of minute bodies seen through magnifying instruments, with folded engraved plates that reward close viewing.",
+    "institution": "Wellcome Collection",
+    "item_url": "https://content.www.wellcomecollection.org/works/apmaw56u",
+    "rights_status": "Public Domain",
+    "rights_url": "https://content.www.wellcomecollection.org/works/apmaw56u",
+    "rights_evidence": "The item record explicitly applies the Creative Commons Public Domain Mark to this digitized work.",
+    "formats": [],
+    "region": "Europe (Britain)",
+    "tags": [
+      "microscopy",
+      "natural history",
+      "illustration"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "buonanni-micrographia-1691",
+    "title": "Observationes circa viventia, with Micrographia curiosa",
+    "creator": "Filippo Buonanni",
+    "year": "1691",
+    "category": "Scientific Discoveries & Publications",
+    "description": "A seventeenth-century volume of observations on living things and microscopic subjects, accompanied by 70 plates.",
+    "institution": "ETH-Bibliothek Zürich / e-rara",
+    "item_url": "https://www.e-rara.ch/zut/content/titleinfo/5973934",
+    "rights_status": "Public Domain",
+    "rights_url": "https://www.e-rara.ch/zut/content/titleinfo/5973934",
+    "rights_evidence": "The item record explicitly applies the Creative Commons Public Domain Mark to this digitized work.",
+    "formats": [
+      "IIIF"
+    ],
+    "region": "Europe (Italy)",
+    "tags": [
+      "microscopy",
+      "biology",
+      "plates"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "darwin-origin-1859",
+    "title": "On the origin of species",
+    "creator": "Charles Darwin",
+    "year": "1859",
+    "category": "Scientific Discoveries & Publications",
+    "description": "A digitized first-edition copy of Darwin’s argument for natural selection; the record identifies details associated with the earliest issue.",
+    "institution": "Wellcome Collection",
+    "item_url": "https://wellcomecollection.org/works/ytv5whr6",
+    "rights_status": "Public Domain",
+    "rights_url": "https://wellcomecollection.org/works/ytv5whr6",
+    "rights_evidence": "The item record explicitly applies the Creative Commons Public Domain Mark to this digitized work.",
+    "formats": [],
+    "region": "Europe (Britain)",
+    "tags": [
+      "evolution",
+      "biology",
+      "first edition"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "newton-principia-1687",
+    "title": "Philosophiae naturalis principia mathematica",
+    "creator": "Isaac Newton",
+    "year": "1687",
+    "category": "Scientific Discoveries & Publications",
+    "description": "The first issue of the first edition, with geometrical diagrams that let readers follow the form of Newton’s mathematical arguments.",
+    "institution": "Wellcome Collection",
+    "item_url": "https://wellcomecollection.org/works/bhkrk934",
+    "rights_status": "Public Domain",
+    "rights_url": "https://wellcomecollection.org/works/bhkrk934",
+    "rights_evidence": "The item record explicitly applies the Creative Commons Public Domain Mark to this digitized work.",
+    "formats": [],
+    "region": "Europe (Britain)",
+    "tags": [
+      "physics",
+      "mathematics",
+      "first edition"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "met-451270",
+    "title": "\"Shah Jahan on a Terrace, Holding a Pendant Set With His Portrait\", Folio from the Shah Jahan Album",
+    "creator": "Chitarman",
+    "year": "recto: dated 1627–28; verso: ca. 1530–50",
+    "category": "Art, Prints & Illustrations",
+    "description": "An imperial portrait places Shah Jahan on a terrace surrounded by carefully rendered signs of rank and courtly craftsmanship.",
+    "institution": "The Metropolitan Museum of Art",
+    "item_url": "https://www.metmuseum.org/art/collection/search/451270",
+    "rights_status": "Public Domain",
+    "rights_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/451270",
+    "rights_evidence": "Official item API reports isPublicDomain: true and supplies an image URL. The Met Open Access policy places eligible images under CC0.",
+    "formats": [
+      "JPEG"
+    ],
+    "region": "South Asia — India",
+    "tags": [
+      "Mughal",
+      "portrait",
+      "album"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "met-436121",
+    "title": "A Woman Seated beside a Vase of Flowers (Madame Paul Valpinçon?)",
+    "creator": "Edgar Degas",
+    "year": "1865",
+    "category": "Art, Prints & Illustrations",
+    "description": "Degas sets a seated woman beside a substantial arrangement of flowers; even the sitter identification remains a question in the catalog.",
+    "institution": "The Metropolitan Museum of Art",
+    "item_url": "https://www.metmuseum.org/art/collection/search/436121",
+    "rights_status": "Public Domain",
+    "rights_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/436121",
+    "rights_evidence": "Official item API reports isPublicDomain: true and supplies an image URL. The Met Open Access policy places eligible images under CC0.",
+    "formats": [
+      "JPEG"
+    ],
+    "region": "Europe — France",
+    "tags": [
+      "portrait",
+      "painting",
+      "flowers"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "met-437980",
+    "title": "Cypresses",
+    "creator": "Vincent van Gogh",
+    "year": "1889",
+    "category": "Art, Prints & Illustrations",
+    "description": "Van Gogh makes cypress trees the subject of an oil painting, inviting close study of how paint builds a landscape.",
+    "institution": "The Metropolitan Museum of Art",
+    "item_url": "https://www.metmuseum.org/art/collection/search/437980",
+    "rights_status": "Public Domain",
+    "rights_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437980",
+    "rights_evidence": "Official item API reports isPublicDomain: true and supplies an image URL. The Met Open Access policy places eligible images under CC0.",
+    "formats": [
+      "JPEG"
+    ],
+    "region": "Europe",
+    "tags": [
+      "landscape",
+      "painting",
+      "cypress"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "met-312289",
+    "title": "Equestrian",
+    "creator": "Dogon blacksmith",
+    "year": "16th–18th century",
+    "category": "Art, Prints & Illustrations",
+    "description": "A carved rider and horse form a dynamic sculpture whose gestures link leadership, defense, and the prestige of equestrian imagery.",
+    "institution": "The Metropolitan Museum of Art",
+    "item_url": "https://www.metmuseum.org/art/collection/search/312289",
+    "rights_status": "Public Domain",
+    "rights_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/312289",
+    "rights_evidence": "Official item API reports isPublicDomain: true and supplies an image URL. The Met Open Access policy places eligible images under CC0.",
+    "formats": [
+      "JPEG"
+    ],
+    "region": "West Africa — Mali, Dogon peoples",
+    "tags": [
+      "Dogon",
+      "equestrian",
+      "wood"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "met-51359",
+    "title": "Maebyeong",
+    "creator": null,
+    "year": "12th century",
+    "category": "Art, Prints & Illustrations",
+    "description": "Peonies and floral scrolls decorate a Goryeo celadon bottle, bringing bold iron-brown painting beneath a green glaze.",
+    "institution": "The Metropolitan Museum of Art",
+    "item_url": "https://www.metmuseum.org/art/collection/search/51359",
+    "rights_status": "Public Domain",
+    "rights_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/51359",
+    "rights_evidence": "Official item API reports isPublicDomain: true and supplies an image URL. The Met Open Access policy places eligible images under CC0.",
+    "formats": [
+      "JPEG"
+    ],
+    "region": "East Asia — Korea",
+    "tags": [
+      "Goryeo",
+      "celadon",
+      "ceramic"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "met-449537",
+    "title": "Mihrab (Prayer Niche)",
+    "creator": null,
+    "year": "dated 755 AH/1354–55 CE",
+    "category": "Art, Prints & Illustrations",
+    "description": "Cut glazed tiles assemble calligraphy and ornament into a monumental prayer niche from Isfahan.",
+    "institution": "The Metropolitan Museum of Art",
+    "item_url": "https://www.metmuseum.org/art/collection/search/449537",
+    "rights_status": "Public Domain",
+    "rights_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/449537",
+    "rights_evidence": "Official item API reports isPublicDomain: true and supplies an image URL. The Met Open Access policy places eligible images under CC0.",
+    "formats": [
+      "JPEG"
+    ],
+    "region": "West Asia — Iran",
+    "tags": [
+      "tilework",
+      "calligraphy",
+      "architecture"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "met-39901",
+    "title": "Night-Shining White",
+    "creator": "Han Gan",
+    "year": "ca. 750",
+    "category": "Art, Prints & Illustrations",
+    "description": "Han Gan renders a horse in ink on a handscroll, a compact work whose mounted form also carries later inscriptions and collectors marks.",
+    "institution": "The Metropolitan Museum of Art",
+    "item_url": "https://www.metmuseum.org/art/collection/search/39901",
+    "rights_status": "Public Domain",
+    "rights_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/39901",
+    "rights_evidence": "Official item API reports isPublicDomain: true and supplies an image URL. The Met Open Access policy places eligible images under CC0.",
+    "formats": [
+      "JPEG"
+    ],
+    "region": "East Asia — China",
+    "tags": [
+      "Tang",
+      "horse",
+      "handscroll"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "met-316487",
+    "title": "Plaque with Two Fluted Gourds",
+    "creator": "Ìgùn Ẹ́rọ̀nwwọ̀n (brass-casting guild) artists",
+    "year": "ca. 1540–70",
+    "category": "Art, Prints & Illustrations",
+    "description": "A cast-brass palace plaque turns paired gourds into a study of symmetry, surface pattern, and the visual language of the Benin court.",
+    "institution": "The Metropolitan Museum of Art",
+    "item_url": "https://www.metmuseum.org/art/collection/search/316487",
+    "rights_status": "Public Domain",
+    "rights_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/316487",
+    "rights_evidence": "Official item API reports isPublicDomain: true and supplies an image URL. The Met Open Access policy places eligible images under CC0.",
+    "formats": [
+      "JPEG"
+    ],
+    "region": "West Africa — Nigeria, Edo peoples",
+    "tags": [
+      "Benin",
+      "brass",
+      "court-art"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "met-39328",
+    "title": "Shiva as Lord of Dance (Nataraja)",
+    "creator": null,
+    "year": "ca. late 11th century",
+    "category": "Art, Prints & Illustrations",
+    "description": "Shiva dances inside a flaming circle in a Chola-period copper-alloy sculpture that brings movement and cosmology into a single balanced form.",
+    "institution": "The Metropolitan Museum of Art",
+    "item_url": "https://www.metmuseum.org/art/collection/search/39328",
+    "rights_status": "Public Domain",
+    "rights_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/39328",
+    "rights_evidence": "Official item API reports isPublicDomain: true and supplies an image URL. The Met Open Access policy places eligible images under CC0.",
+    "formats": [
+      "JPEG"
+    ],
+    "region": "South Asia — India, Tamil Nadu",
+    "tags": [
+      "Chola",
+      "sculpture",
+      "Hindu-art"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "met-435882",
+    "title": "Still Life with Apples and a Pot of Primroses",
+    "creator": "Paul Cézanne",
+    "year": "ca. 1890",
+    "category": "Art, Prints & Illustrations",
+    "description": "Apples and a flowering pot make a compact still life for studying arrangement, mass, and the painted surface.",
+    "institution": "The Metropolitan Museum of Art",
+    "item_url": "https://www.metmuseum.org/art/collection/search/435882",
+    "rights_status": "Public Domain",
+    "rights_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/435882",
+    "rights_evidence": "Official item API reports isPublicDomain: true and supplies an image URL. The Met Open Access policy places eligible images under CC0.",
+    "formats": [
+      "JPEG"
+    ],
+    "region": "Europe — France",
+    "tags": [
+      "still-life",
+      "painting",
+      "plants"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "met-45434",
+    "title": "Under the Wave off Kanagawa (Kanagawa oki nami ura), also known as The Great Wave, from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
+    "creator": "Katsushika Hokusai",
+    "year": "ca. 1830–32",
+    "category": "Art, Prints & Illustrations",
+    "description": "A curling wave frames distant Mount Fuji in a woodblock print whose scale turns small boats into a drama of water and sky.",
+    "institution": "The Metropolitan Museum of Art",
+    "item_url": "https://www.metmuseum.org/art/collection/search/45434",
+    "rights_status": "Public Domain",
+    "rights_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/45434",
+    "rights_evidence": "Official item API reports isPublicDomain: true and supplies an image URL. The Met Open Access policy places eligible images under CC0.",
+    "formats": [
+      "JPEG"
+    ],
+    "region": "East Asia — Japan",
+    "tags": [
+      "woodblock",
+      "ocean",
+      "landscape"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "met-436535",
+    "title": "Wheat Field with Cypresses",
+    "creator": "Vincent van Gogh",
+    "year": "1889",
+    "category": "Art, Prints & Illustrations",
+    "description": "Fields and cypresses become a landscape of strongly articulated color and brushwork in this 1889 canvas.",
+    "institution": "The Metropolitan Museum of Art",
+    "item_url": "https://www.metmuseum.org/art/collection/search/436535",
+    "rights_status": "Public Domain",
+    "rights_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/436535",
+    "rights_evidence": "Official item API reports isPublicDomain: true and supplies an image URL. The Met Open Access policy places eligible images under CC0.",
+    "formats": [
+      "JPEG"
+    ],
+    "region": "Europe",
+    "tags": [
+      "landscape",
+      "painting",
+      "wheat"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "wellcome-jqc79fxf",
+    "title": "A Japanese village in wooded country",
+    "creator": "William Pryor Floyd",
+    "year": "c. 1873 (title attribution; catalogue date range 1800–1899)",
+    "category": "Historical Photography",
+    "description": "An albumen photograph places village architecture within a wooded landscape, preserving the spatial detail of a nineteenth-century view.",
+    "institution": "Wellcome Collection",
+    "item_url": "https://wellcomecollection.org/works/jqc79fxf",
+    "rights_status": "Public Domain",
+    "rights_url": "https://wellcomecollection.org/works/jqc79fxf",
+    "rights_evidence": "The item record explicitly applies the Public Domain Mark to this digitised work and offers JPEG downloads.",
+    "formats": [
+      "JPEG"
+    ],
+    "region": "Japan",
+    "tags": [
+      "albumen print",
+      "landscape",
+      "architecture"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "wellcome-dkrtdw9r",
+    "title": "India: a field laboratory",
+    "creator": null,
+    "year": "1900–1920 (?)",
+    "category": "Historical Photography",
+    "description": "Microscopes and white coats fill a rudimentary laboratory associated in the catalogue lettering with the Kala-Azar Commission in India.",
+    "institution": "Wellcome Collection",
+    "item_url": "https://wellcomecollection.org/works/dkrtdw9r",
+    "rights_status": "Public Domain",
+    "rights_url": "https://wellcomecollection.org/works/dkrtdw9r",
+    "rights_evidence": "The item record explicitly applies the Public Domain Mark to this digitised work and offers JPEG downloads.",
+    "formats": [
+      "JPEG"
+    ],
+    "region": "India",
+    "tags": [
+      "medicine",
+      "laboratory",
+      "colonial history"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "wellcome-frh8z3ap",
+    "title": "Manchu ladies in a garden",
+    "creator": "John Thomson",
+    "year": "1981 print from an 1869 negative",
+    "category": "Historical Photography",
+    "description": "Two women in embroidered clothing stand in a garden. The record carefully distinguishes the nineteenth-century negative from the later contact print.",
+    "institution": "Wellcome Collection",
+    "item_url": "https://wellcomecollection.org/works/frh8z3ap",
+    "rights_status": "Public Domain",
+    "rights_url": "https://wellcomecollection.org/works/frh8z3ap",
+    "rights_evidence": "The item record explicitly applies the Public Domain Mark to this digitised work and offers JPEG downloads.",
+    "formats": [
+      "JPEG"
+    ],
+    "region": "China",
+    "tags": [
+      "portraiture",
+      "dress",
+      "contact print"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "wellcome-rt5ucask",
+    "title": "Philae: temple buildings reflected in the Nile",
+    "creator": "Antonio Beato",
+    "year": "c. 1870",
+    "category": "Historical Photography",
+    "description": "Temple buildings and reflections preserve Philae in its earlier setting, before the complex was relocated in the twentieth century.",
+    "institution": "Wellcome Collection",
+    "item_url": "https://wellcomecollection.org/works/rt5ucask",
+    "rights_status": "Public Domain",
+    "rights_url": "https://wellcomecollection.org/works/rt5ucask",
+    "rights_evidence": "The item record explicitly applies the Public Domain Mark to this digitised work and offers JPEG downloads.",
+    "formats": [
+      "JPEG"
+    ],
+    "region": "Egypt",
+    "tags": [
+      "Nile",
+      "architecture",
+      "albumen print"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "wellcome-wmm3pvmc",
+    "title": "The Taj Mahal, Agra, India",
+    "creator": null,
+    "year": "c. 1900",
+    "category": "Historical Photography",
+    "description": "An early photographic view of the Taj Mahal offers a historical counterpart to its familiar modern image.",
+    "institution": "Wellcome Collection",
+    "item_url": "https://wellcomecollection.org/works/wmm3pvmc",
+    "rights_status": "Public Domain",
+    "rights_url": "https://wellcomecollection.org/works/wmm3pvmc",
+    "rights_evidence": "The item record explicitly applies the Public Domain Mark to this digitised work and offers JPEG downloads.",
+    "formats": [
+      "JPEG"
+    ],
+    "region": "India",
+    "tags": [
+      "architecture",
+      "Taj Mahal"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "pg-873",
+    "title": "A House of Pomegranates",
+    "creator": "Oscar Wilde",
+    "year": "1915 (linked Methuen edition)",
+    "category": "Literature & Poetry",
+    "description": "Four elaborate fairy tales explore beauty and suffering, from a young king's costly robes to a fisherman's bargain for love.",
+    "institution": "Project Gutenberg",
+    "item_url": "https://www.gutenberg.org/ebooks/873",
+    "rights_status": "Public Domain — United States",
+    "rights_url": "https://www.gutenberg.org/cache/epub/873/pg873-images.html",
+    "rights_evidence": "The ebook catalogue labels this text public domain in the USA; its linked HTML has the standard US reuse header and Project Gutenberg licence, without a separate permission-based notice in the header. Project Gutenberg trademark terms remain relevant.",
+    "formats": [
+      "HTML",
+      "EPUB",
+      "Plain text"
+    ],
+    "region": "Ireland / United Kingdom",
+    "tags": [
+      "fairy tales",
+      "short fiction"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "pg-2046",
+    "title": "Clotel; Or, The President's Daughter",
+    "creator": "William Wells Brown",
+    "year": "1853 (original publication)",
+    "category": "Literature & Poetry",
+    "description": "An abolitionist novel following a mother and daughters through the violence of enslavement, combining fiction with a direct political appeal.",
+    "institution": "Project Gutenberg",
+    "item_url": "https://www.gutenberg.org/ebooks/2046",
+    "rights_status": "Public Domain — United States",
+    "rights_url": "https://www.gutenberg.org/cache/epub/2046/pg2046-images.html",
+    "rights_evidence": "The ebook catalogue labels this text public domain in the USA; its linked HTML has the standard US reuse header and Project Gutenberg licence, without a separate permission-based notice in the header. Project Gutenberg trademark terms remain relevant.",
+    "formats": [
+      "HTML",
+      "EPUB",
+      "Plain text"
+    ],
+    "region": "United States",
+    "tags": [
+      "African American literature",
+      "abolition"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "pg-7164",
+    "title": "Gitanjali (Song Offerings)",
+    "creator": "Rabindranath Tagore; English translations by the author; introduction by W. B. Yeats",
+    "year": "1912 (English collection first published)",
+    "category": "Literature & Poetry",
+    "description": "Brief devotional prose poems carry Bengali verse into English in the poet's own translations. Read alongside Yeats's introductory account of their reception.",
+    "institution": "Project Gutenberg",
+    "item_url": "https://www.gutenberg.org/ebooks/7164",
+    "rights_status": "Public Domain — United States",
+    "rights_url": "https://www.gutenberg.org/cache/epub/7164/pg7164-images.html",
+    "rights_evidence": "The ebook catalogue labels this text public domain in the USA; its linked HTML has the standard US reuse header and Project Gutenberg licence, without a separate permission-based notice in the header. Project Gutenberg trademark terms remain relevant.",
+    "formats": [
+      "HTML",
+      "EPUB",
+      "Plain text"
+    ],
+    "region": "India",
+    "tags": [
+      "Bengali literature",
+      "poetry",
+      "translation"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "pg-11030",
+    "title": "Incidents in the Life of a Slave Girl, Written by Herself",
+    "creator": "Harriet A. Jacobs; edited by Lydia Maria Child",
+    "year": "1861",
+    "category": "Literature & Poetry",
+    "description": "An autobiographical account foregrounding motherhood, concealment, and resistance under slavery. The linked transcription includes Child's editorial introduction.",
+    "institution": "Project Gutenberg",
+    "item_url": "https://www.gutenberg.org/ebooks/11030",
+    "rights_status": "Public Domain — United States",
+    "rights_url": "https://www.gutenberg.org/cache/epub/11030/pg11030-images.html",
+    "rights_evidence": "The ebook catalogue labels this text public domain in the USA; its linked HTML has the standard US reuse header and Project Gutenberg licence, without a separate permission-based notice in the header. Project Gutenberg trademark terms remain relevant.",
+    "formats": [
+      "HTML",
+      "EPUB",
+      "Plain text"
+    ],
+    "region": "United States",
+    "tags": [
+      "autobiography",
+      "African American literature",
+      "women writers"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "pg-47584",
+    "title": "Noli me tángere: Novela Tagala",
+    "creator": "José Rizal; annotated by Ramón Sempau",
+    "year": "1902 (linked Spanish edition)",
+    "category": "Literature & Poetry",
+    "description": "Rizal's novel exposes colonial power through the return of Crisóstomo Ibarra to the Philippines. This Spanish edition includes Sempau's notes.",
+    "institution": "Project Gutenberg",
+    "item_url": "https://www.gutenberg.org/ebooks/47584",
+    "rights_status": "Public Domain — United States",
+    "rights_url": "https://www.gutenberg.org/cache/epub/47584/pg47584-images.html",
+    "rights_evidence": "The ebook catalogue labels this text public domain in the USA; its linked HTML has the standard US reuse header and Project Gutenberg licence, without a separate permission-based notice in the header. Project Gutenberg trademark terms remain relevant.",
+    "formats": [
+      "HTML",
+      "EPUB",
+      "Plain text"
+    ],
+    "region": "Philippines",
+    "tags": [
+      "Spanish language",
+      "colonial history",
+      "fiction"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "pg-15399",
+    "title": "The Interesting Narrative of the Life of Olaudah Equiano",
+    "creator": "Olaudah Equiano",
+    "year": "1789 (original publication)",
+    "category": "Literature & Poetry",
+    "description": "A transatlantic life story joins maritime experience, spiritual autobiography, and an argument against the slave trade.",
+    "institution": "Project Gutenberg",
+    "item_url": "https://www.gutenberg.org/ebooks/15399",
+    "rights_status": "Public Domain — United States",
+    "rights_url": "https://www.gutenberg.org/cache/epub/15399/pg15399-images.html",
+    "rights_evidence": "The ebook catalogue labels this text public domain in the USA; its linked HTML has the standard US reuse header and Project Gutenberg licence, without a separate permission-based notice in the header. Project Gutenberg trademark terms remain relevant.",
+    "formats": [
+      "HTML",
+      "EPUB",
+      "Plain text"
+    ],
+    "region": "West Africa / Atlantic world",
+    "tags": [
+      "autobiography",
+      "abolition",
+      "maritime history"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "pg-58585",
+    "title": "The Prophet",
+    "creator": "Kahlil Gibran",
+    "year": "1923",
+    "category": "Literature & Poetry",
+    "description": "Farewell speeches on love, labour, joy, and death form a sequence of prose poems, accompanied in this edition by Gibran's own illustrations.",
+    "institution": "Project Gutenberg",
+    "item_url": "https://www.gutenberg.org/ebooks/58585",
+    "rights_status": "Public Domain — United States",
+    "rights_url": "https://www.gutenberg.org/cache/epub/58585/pg58585-images.html",
+    "rights_evidence": "The ebook catalogue labels this text public domain in the USA; its linked HTML has the standard US reuse header and Project Gutenberg licence, without a separate permission-based notice in the header. Project Gutenberg trademark terms remain relevant.",
+    "formats": [
+      "HTML",
+      "EPUB",
+      "Plain text"
+    ],
+    "region": "Lebanon / United States",
+    "tags": [
+      "prose poetry",
+      "illustrated books"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "pg-246",
+    "title": "The Rubaiyat of Omar Khayyam",
+    "creator": "Omar Khayyam; English rendering by Edward FitzGerald",
+    "year": "1859 (first English edition); later fifth-edition text also included",
+    "category": "Literature & Poetry",
+    "description": "Compare two versions of FitzGerald's English rendering of Persian quatrains; the differences invite close reading of translation as creative interpretation.",
+    "institution": "Project Gutenberg",
+    "item_url": "https://www.gutenberg.org/ebooks/246",
+    "rights_status": "Public Domain — United States",
+    "rights_url": "https://www.gutenberg.org/cache/epub/246/pg246-images.html",
+    "rights_evidence": "The ebook catalogue labels this text public domain in the USA; its linked HTML has the standard US reuse header and Project Gutenberg licence, without a separate permission-based notice in the header. Project Gutenberg trademark terms remain relevant.",
+    "formats": [
+      "HTML",
+      "EPUB",
+      "Plain text"
+    ],
+    "region": "Iran / United Kingdom",
+    "tags": [
+      "Persian poetry",
+      "translation",
+      "comparative reading"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "pg-408",
+    "title": "The Souls of Black Folk",
+    "creator": "W. E. B. Du Bois",
+    "year": "1903",
+    "category": "Literature & Poetry",
+    "description": "Essays, personal narrative, and musical epigraphs examine emancipation and its aftermath, making the page a meeting place of history and lived experience.",
+    "institution": "Project Gutenberg",
+    "item_url": "https://www.gutenberg.org/ebooks/408",
+    "rights_status": "Public Domain — United States",
+    "rights_url": "https://www.gutenberg.org/cache/epub/408/pg408-images.html",
+    "rights_evidence": "The ebook catalogue labels this text public domain in the USA; its linked HTML has the standard US reuse header and Project Gutenberg licence, without a separate permission-based notice in the header. Project Gutenberg trademark terms remain relevant.",
+    "formats": [
+      "HTML",
+      "EPUB",
+      "Plain text"
+    ],
+    "region": "United States",
+    "tags": [
+      "African American literature",
+      "essays",
+      "history"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "nypl-daisy-bell",
+    "title": "Daisy Bell",
+    "creator": "Harry Dacre",
+    "year": "1892",
+    "category": "Music & Musical Scores",
+    "description": "The bicycle song appears here in its historical score, preserving the printed source rather than rights in any later recording.",
+    "institution": "New York Public Library",
+    "item_url": "https://old-digitalcollections.nypl.org/items/5e66b3e8-94d1-d471-e040-e00a180654d7",
+    "rights_status": "Public Domain — United States",
+    "rights_url": "https://old-digitalcollections.nypl.org/items/5e66b3e8-94d1-d471-e040-e00a180654d7",
+    "rights_evidence": "The item record states that NYPL believes this score public domain under United States law, while explicitly making no determination for other countries.",
+    "formats": [
+      "Online page images"
+    ],
+    "region": "United Kingdom / United States",
+    "tags": [
+      "sheet music",
+      "cycling",
+      "popular music"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "loc-score-2016785448",
+    "title": "Everything is hunky dory down in honky tonky town",
+    "creator": "Harry Tierney",
+    "year": "1918",
+    "category": "Music & Musical Scores",
+    "description": "Six digitised pages preserve a number from Everything, offering a compact window into early twentieth-century musical theatre.",
+    "institution": "Library of Congress",
+    "item_url": "https://www.loc.gov/item/2016785448/",
+    "rights_status": "Public Domain — United States",
+    "rights_url": "https://www.loc.gov/item/2016785448/",
+    "rights_evidence": "The item-specific Rights & Access section identifies its sheet-music collection as public domain and free to use and reuse. This assessment concerns the linked score, not a modern performance.",
+    "formats": [
+      "PDF",
+      "Images"
+    ],
+    "region": "United States",
+    "tags": [
+      "musical theatre",
+      "sheet music"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "loc-score-2016769215",
+    "title": "In those rare days of long ago",
+    "creator": "Julius Adler",
+    "year": "1896",
+    "category": "Music & Musical Scores",
+    "description": "A theatre song from The Liberty Bell survives as a five-page score, ready for study of melody, accompaniment, and stage nostalgia.",
+    "institution": "Library of Congress",
+    "item_url": "https://www.loc.gov/item/2016769215/",
+    "rights_status": "Public Domain — United States",
+    "rights_url": "https://www.loc.gov/item/2016769215/",
+    "rights_evidence": "The item-specific Rights & Access section identifies its sheet-music collection as public domain and free to use and reuse. This assessment concerns the linked score, not a modern performance.",
+    "formats": [
+      "PDF",
+      "Images"
+    ],
+    "region": "United States",
+    "tags": [
+      "musical theatre",
+      "sheet music"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "loc-score-2016790970",
+    "title": "Jump back: Jump back ma honey, jump back",
+    "creator": "Will Marion Cook (composer); Paul Laurence Dunbar (lyricist)",
+    "year": "1898",
+    "category": "Music & Musical Scores",
+    "description": "A surviving score from Clorindy brings together Cook's theatre music and Dunbar's words, preserving a collaboration between two African American artists.",
+    "institution": "Library of Congress",
+    "item_url": "https://www.loc.gov/item/2016790970/",
+    "rights_status": "Public Domain — United States",
+    "rights_url": "https://www.loc.gov/item/2016790970/",
+    "rights_evidence": "The item-specific Rights & Access section identifies its sheet-music collection as public domain and free to use and reuse. This assessment concerns the linked score, not a modern performance.",
+    "formats": [
+      "PDF",
+      "Images"
+    ],
+    "region": "United States",
+    "tags": [
+      "African American music",
+      "musical theatre"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "loc-score-2023852492",
+    "title": "O Maria! Or, The Plumber's daughter",
+    "creator": "Chas. D. Blake",
+    "year": "1884",
+    "category": "Music & Musical Scores",
+    "description": "An unexpectedly titled nineteenth-century score provides a playful starting point for exploring the breadth of historical American sheet music.",
+    "institution": "Library of Congress",
+    "item_url": "https://www.loc.gov/item/2023852492/",
+    "rights_status": "Public Domain — United States",
+    "rights_url": "https://www.loc.gov/item/2023852492/",
+    "rights_evidence": "The item-specific Rights & Access section identifies its sheet-music collection as public domain and free to use and reuse. This assessment concerns the linked score, not a modern performance.",
+    "formats": [
+      "PDF",
+      "Images"
+    ],
+    "region": "United States",
+    "tags": [
+      "sheet music",
+      "popular music"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "farey-steam-engine-1827",
+    "title": "A treatise on the steam engine",
+    "creator": "John Farey",
+    "year": "1827",
+    "category": "Engineering, Inventions & Technical Drawings",
+    "description": "A detailed account joining the history and practical construction of steam engines, with illustrations and 25 plates.",
+    "institution": "ETH-Bibliothek Zürich / e-rara",
+    "item_url": "https://www.e-rara.ch/zut/content/titleinfo/18859705",
+    "rights_status": "Public Domain",
+    "rights_url": "https://www.e-rara.ch/zut/content/titleinfo/18859705",
+    "rights_evidence": "The item record explicitly applies the Creative Commons Public Domain Mark to this digitized work.",
+    "formats": [
+      "IIIF"
+    ],
+    "region": "Europe (Britain)",
+    "tags": [
+      "steam",
+      "engineering",
+      "technical illustration"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "ramelli-machines-1588",
+    "title": "Le diverse et artificiose machine",
+    "creator": "Agostino Ramelli",
+    "year": "1588",
+    "category": "Engineering, Inventions & Technical Drawings",
+    "description": "A bilingual Italian and French machine book with 195 copper engravings, offering an extended gallery of sixteenth-century mechanical imagination.",
+    "institution": "ETH-Bibliothek Zürich / e-rara",
+    "item_url": "https://www.e-rara.ch/zut/content/titleinfo/2562552",
+    "rights_status": "Public Domain",
+    "rights_url": "https://www.e-rara.ch/zut/content/titleinfo/2562552",
+    "rights_evidence": "The item record explicitly applies the Creative Commons Public Domain Mark to this digitized work.",
+    "formats": [
+      "IIIF"
+    ],
+    "region": "Europe (France; Italian author)",
+    "tags": [
+      "machines",
+      "engineering",
+      "engraving"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "lardner-steam-engine-1840",
+    "title": "The steam engine explained and illustrated",
+    "creator": "Dionysius Lardner",
+    "year": "1840",
+    "category": "Engineering, Inventions & Technical Drawings",
+    "description": "This illustrated seventh edition connects steam-engine development with applications to navigation and railways and includes a memoir of Watt.",
+    "institution": "ETH-Bibliothek Zürich / e-rara",
+    "item_url": "https://www.e-rara.ch/zut/content/titleinfo/14148092",
+    "rights_status": "Public Domain",
+    "rights_url": "https://www.e-rara.ch/zut/content/titleinfo/14148092",
+    "rights_evidence": "The item record explicitly applies the Creative Commons Public Domain Mark to this digitized work.",
+    "formats": [
+      "IIIF"
+    ],
+    "region": "Europe (Britain)",
+    "tags": [
+      "steam",
+      "navigation",
+      "railways"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "besson-theatrum-1578",
+    "title": "Theatrum instrumentorum et machinarum",
+    "creator": "Jacques Besson; François Béroalde de Verville",
+    "year": "1578",
+    "category": "Engineering, Inventions & Technical Drawings",
+    "description": "Sixty plates and explanatory text turn mechanical instruments and machines into a large-format illustrated survey.",
+    "institution": "ETH-Bibliothek Zürich / e-rara",
+    "item_url": "https://www.e-rara.ch/zut/content/titleinfo/29199351",
+    "rights_status": "Public Domain",
+    "rights_url": "https://www.e-rara.ch/zut/content/titleinfo/29199351",
+    "rights_evidence": "The item record explicitly applies the Creative Commons Public Domain Mark to this digitized work.",
+    "formats": [
+      "IIIF"
+    ],
+    "region": "Europe (France)",
+    "tags": [
+      "machines",
+      "engineering",
+      "plates"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "met-318011",
+    "title": "Figure: Equestrian",
+    "creator": "Middle Niger artist",
+    "year": "12th–16th century",
+    "category": "Ancient Civilizations & Historical Documents",
+    "description": "A miniature copper-alloy rider and horse reveal the sculptural skill of a Middle Niger artist within an object only a few centimeters high.",
+    "institution": "The Metropolitan Museum of Art",
+    "item_url": "https://www.metmuseum.org/art/collection/search/318011",
+    "rights_status": "Public Domain",
+    "rights_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/318011",
+    "rights_evidence": "Official item API reports isPublicDomain: true and supplies an image URL. The Met Open Access policy places eligible images under CC0.",
+    "formats": [
+      "JPEG"
+    ],
+    "region": "West Africa — Mali, Inland Niger Delta",
+    "tags": [
+      "Middle-Niger",
+      "equestrian",
+      "metalwork"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "met-310524",
+    "title": "Head Vessel",
+    "creator": null,
+    "year": "2nd–6th century",
+    "category": "Ancient Civilizations & Historical Documents",
+    "description": "A ceramic vessel models a human head, bringing sculptural portraiture into the form of a container.",
+    "institution": "The Metropolitan Museum of Art",
+    "item_url": "https://www.metmuseum.org/art/collection/search/310524",
+    "rights_status": "Public Domain",
+    "rights_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/310524",
+    "rights_evidence": "Official item API reports isPublicDomain: true and supplies an image URL. The Met Open Access policy places eligible images under CC0.",
+    "formats": [
+      "JPEG"
+    ],
+    "region": "South America — Peru, Moche",
+    "tags": [
+      "Moche",
+      "ceramic",
+      "portrait"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "met-322603",
+    "title": "Molded plaque: king or a god carrying a mace",
+    "creator": null,
+    "year": "ca. 2000–1700 BCE",
+    "category": "Ancient Civilizations & Historical Documents",
+    "description": "A molded ceramic plaque depicts a mace-bearing royal or divine figure; the catalog preserves the uncertainty of that identification.",
+    "institution": "The Metropolitan Museum of Art",
+    "item_url": "https://www.metmuseum.org/art/collection/search/322603",
+    "rights_status": "Public Domain",
+    "rights_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/322603",
+    "rights_evidence": "Official item API reports isPublicDomain: true and supplies an image URL. The Met Open Access policy places eligible images under CC0.",
+    "formats": [
+      "JPEG"
+    ],
+    "region": "West Asia — Mesopotamia",
+    "tags": [
+      "Mesopotamia",
+      "ceramic",
+      "relief"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "met-547951",
+    "title": "Portrait of the Boy Eutyches",
+    "creator": null,
+    "year": "100–150 CE",
+    "category": "Ancient Civilizations & Historical Documents",
+    "description": "An encaustic portrait on wood preserves the face of Eutyches, offering a direct encounter with painting from Roman-period Egypt.",
+    "institution": "The Metropolitan Museum of Art",
+    "item_url": "https://www.metmuseum.org/art/collection/search/547951",
+    "rights_status": "Public Domain",
+    "rights_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/547951",
+    "rights_evidence": "Official item API reports isPublicDomain: true and supplies an image URL. The Met Open Access policy places eligible images under CC0.",
+    "formats": [
+      "JPEG"
+    ],
+    "region": "North Africa — Egypt",
+    "tags": [
+      "portrait",
+      "encaustic",
+      "Roman-Egypt"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "met-310715",
+    "title": "Small Yoke",
+    "creator": null,
+    "year": "12th–9th century BCE",
+    "category": "Ancient Civilizations & Historical Documents",
+    "description": "A small stone yoke from Tlatilco offers an unfamiliar object form from early Mesoamerica without requiring a speculative identification of its use.",
+    "institution": "The Metropolitan Museum of Art",
+    "item_url": "https://www.metmuseum.org/art/collection/search/310715",
+    "rights_status": "Public Domain",
+    "rights_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/310715",
+    "rights_evidence": "Official item API reports isPublicDomain: true and supplies an image URL. The Met Open Access policy places eligible images under CC0.",
+    "formats": [
+      "JPEG"
+    ],
+    "region": "North America — Mexico, Tlatilco",
+    "tags": [
+      "Tlatilco",
+      "stone",
+      "Mesoamerica"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "met-547212",
+    "title": "Bowl with Human Feet",
+    "creator": null,
+    "year": "ca. 3700–3450 BCE",
+    "category": "Unusual & Forgotten Treasures",
+    "description": "Human feet animate a red-polished pottery bowl, turning an everyday container into a memorable object from Predynastic Egypt.",
+    "institution": "The Metropolitan Museum of Art",
+    "item_url": "https://www.metmuseum.org/art/collection/search/547212",
+    "rights_status": "Public Domain",
+    "rights_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/547212",
+    "rights_evidence": "Official item API reports isPublicDomain: true and supplies an image URL. The Met Open Access policy places eligible images under CC0.",
+    "formats": [
+      "JPEG"
+    ],
+    "region": "North Africa — Egypt",
+    "tags": [
+      "Predynastic",
+      "pottery",
+      "design"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "met-552202",
+    "title": "Figurine of a hippo made for suspension",
+    "creator": null,
+    "year": "ca. 3650–3100 BCE",
+    "category": "Unusual & Forgotten Treasures",
+    "description": "A tiny pink-limestone hippopotamus was made to hang, giving a familiar animal an unexpectedly portable sculptural form.",
+    "institution": "The Metropolitan Museum of Art",
+    "item_url": "https://www.metmuseum.org/art/collection/search/552202",
+    "rights_status": "Public Domain",
+    "rights_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/552202",
+    "rights_evidence": "Official item API reports isPublicDomain: true and supplies an image URL. The Met Open Access policy places eligible images under CC0.",
+    "formats": [
+      "JPEG"
+    ],
+    "region": "North Africa — Egypt",
+    "tags": [
+      "Predynastic",
+      "animal",
+      "limestone"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "pg-769",
+    "title": "The Book of Tea",
+    "creator": "Kakuzo Okakura",
+    "year": "1906",
+    "category": "Unusual & Forgotten Treasures",
+    "description": "A compact meditation on tea, architecture, and aesthetics that makes everyday practices a route into Japanese cultural history. Originally written in English.",
+    "institution": "Project Gutenberg",
+    "item_url": "https://www.gutenberg.org/ebooks/769",
+    "rights_status": "Public Domain — United States",
+    "rights_url": "https://www.gutenberg.org/cache/epub/769/pg769-images.html",
+    "rights_evidence": "The ebook catalogue labels this text public domain in the USA; its linked HTML has the standard US reuse header and Project Gutenberg licence, without a separate permission-based notice in the header. Project Gutenberg trademark terms remain relevant.",
+    "formats": [
+      "HTML",
+      "EPUB",
+      "Plain text"
+    ],
+    "region": "Japan",
+    "tags": [
+      "tea",
+      "aesthetics",
+      "essays"
+    ],
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "met-61546",
+    "title": "Yoke ornament in the shape of a deer",
+    "creator": null,
+    "year": "5th–4th century BCE",
+    "category": "Unusual & Forgotten Treasures",
+    "description": "A bronze deer transforms a functional yoke ornament into a small animal sculpture from early China.",
+    "institution": "The Metropolitan Museum of Art",
+    "item_url": "https://www.metmuseum.org/art/collection/search/61546",
+    "rights_status": "Public Domain",
+    "rights_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/61546",
+    "rights_evidence": "Official item API reports isPublicDomain: true and supplies an image URL. The Met Open Access policy places eligible images under CC0.",
+    "formats": [
+      "JPEG"
+    ],
+    "region": "East Asia — China",
+    "tags": [
+      "bronze",
+      "animal",
+      "transport"
+    ],
+    "date_verified": "2026-10-30"
+  }
+]

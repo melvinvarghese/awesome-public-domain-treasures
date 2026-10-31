@@ -1,0 +1,27 @@
+name: Report a broken link or rights concern
+description: Report access problems, incorrect metadata or doubtful rights.
+title: '[Correction] '
+body:
+  - type: input
+    id: entry
+    attributes:
+      label: Entry ID or title
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Affected URL
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Observed problem and date
+      description: Include the response or error, or explain the rights evidence that needs review. Bot blocking and rate limits are not proof of a dead link.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Replacement record or supporting evidence

@@ -1,0 +1,744 @@
+[
+  {
+    "url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/310524",
+    "checked_at": "2026-10-30T11:02:30+00:00",
+    "status": 200,
+    "final_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/310524",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/310715",
+    "checked_at": "2026-10-30T11:02:30+00:00",
+    "status": 200,
+    "final_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/310715",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/312289",
+    "checked_at": "2026-10-30T11:02:30+00:00",
+    "status": 200,
+    "final_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/312289",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/316487",
+    "checked_at": "2026-10-30T11:02:30+00:00",
+    "status": 200,
+    "final_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/316487",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/318011",
+    "checked_at": "2026-10-30T11:02:36+00:00",
+    "status": 200,
+    "final_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/318011",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/320635",
+    "checked_at": "2026-10-30T11:02:36+00:00",
+    "status": 200,
+    "final_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/320635",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/322022",
+    "checked_at": "2026-10-30T11:02:36+00:00",
+    "status": 200,
+    "final_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/322022",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/322603",
+    "checked_at": "2026-10-30T11:02:36+00:00",
+    "status": 200,
+    "final_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/322603",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/39328",
+    "checked_at": "2026-10-30T11:02:42+00:00",
+    "status": 200,
+    "final_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/39328",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/39901",
+    "checked_at": "2026-10-30T11:02:42+00:00",
+    "status": 200,
+    "final_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/39901",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/435882",
+    "checked_at": "2026-10-30T11:02:42+00:00",
+    "status": 200,
+    "final_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/435882",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/436121",
+    "checked_at": "2026-10-30T11:02:42+00:00",
+    "status": 200,
+    "final_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/436121",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/436535",
+    "checked_at": "2026-10-30T11:02:50+00:00",
+    "status": 200,
+    "final_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/436535",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437980",
+    "checked_at": "2026-10-30T11:02:50+00:00",
+    "status": 200,
+    "final_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437980",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/444408",
+    "checked_at": "2026-10-30T11:02:50+00:00",
+    "status": 200,
+    "final_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/444408",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/449537",
+    "checked_at": "2026-10-30T11:02:50+00:00",
+    "status": 200,
+    "final_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/449537",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/451270",
+    "checked_at": "2026-10-30T11:02:58+00:00",
+    "status": 200,
+    "final_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/451270",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/451683",
+    "checked_at": "2026-10-30T11:02:58+00:00",
+    "status": 200,
+    "final_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/451683",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/451699",
+    "checked_at": "2026-10-30T11:02:58+00:00",
+    "status": 200,
+    "final_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/451699",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/45434",
+    "checked_at": "2026-10-30T11:02:58+00:00",
+    "status": 200,
+    "final_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/45434",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/456074",
+    "checked_at": "2026-10-30T11:03:05+00:00",
+    "status": 200,
+    "final_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/456074",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/468941",
+    "checked_at": "2026-10-30T11:03:05+00:00",
+    "status": 200,
+    "final_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/468941",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/51359",
+    "checked_at": "2026-10-30T11:03:05+00:00",
+    "status": 200,
+    "final_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/51359",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/547212",
+    "checked_at": "2026-10-30T11:03:05+00:00",
+    "status": 200,
+    "final_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/547212",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/547951",
+    "checked_at": "2026-10-30T11:03:13+00:00",
+    "status": 200,
+    "final_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/547951",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/552202",
+    "checked_at": "2026-10-30T11:03:13+00:00",
+    "status": 200,
+    "final_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/552202",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/61546",
+    "checked_at": "2026-10-30T11:03:13+00:00",
+    "status": 200,
+    "final_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/61546",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/684184",
+    "checked_at": "2026-10-30T11:03:13+00:00",
+    "status": 200,
+    "final_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/684184",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://content.www.wellcomecollection.org/works/apmaw56u",
+    "checked_at": "2026-10-30T11:03:19+00:00",
+    "status": 200,
+    "final_url": "https://content.www.wellcomecollection.org/works/apmaw56u",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://content.www.wellcomecollection.org/works/cbn45tvd",
+    "checked_at": "2026-10-30T11:03:19+00:00",
+    "status": 200,
+    "final_url": "https://content.www.wellcomecollection.org/works/cbn45tvd",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://digitalcollections.library.tamu.edu/do/4bb167b9-3bd6-400a-a0c6-690beeac8667",
+    "checked_at": "2026-10-30T11:03:20+00:00",
+    "status": 403,
+    "final_url": "https://digitalcollections.library.tamu.edu/do/4bb167b9-3bd6-400a-a0c6-690beeac8667",
+    "classification": "access_denied_or_bot_protection"
+  },
+  {
+    "url": "https://digitalcollections.library.tamu.edu/do/8b54f836-f9f2-43f7-8eda-0d2b89ca6f5d",
+    "checked_at": "2026-10-30T11:03:20+00:00",
+    "status": 403,
+    "final_url": "https://digitalcollections.library.tamu.edu/do/8b54f836-f9f2-43f7-8eda-0d2b89ca6f5d",
+    "classification": "access_denied_or_bot_protection"
+  },
+  {
+    "url": "https://digitalcollections.library.tamu.edu/do/e93eea73-e10a-4581-8766-86ae97b1aa8b",
+    "checked_at": "2026-10-30T11:03:23+00:00",
+    "status": 403,
+    "final_url": "https://digitalcollections.library.tamu.edu/do/e93eea73-e10a-4581-8766-86ae97b1aa8b",
+    "classification": "access_denied_or_bot_protection"
+  },
+  {
+    "url": "https://old-digitalcollections.nypl.org/items/5e66b3e8-94d1-d471-e040-e00a180654d7",
+    "checked_at": "2026-10-30T11:03:23+00:00",
+    "status": 200,
+    "final_url": "https://old-digitalcollections.nypl.org/items/5e66b3e8-94d1-d471-e040-e00a180654d7",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://wellcomecollection.org/works/bhkrk934",
+    "checked_at": "2026-10-30T11:03:26+00:00",
+    "status": 200,
+    "final_url": "https://wellcomecollection.org/works/bhkrk934",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://wellcomecollection.org/works/dkrtdw9r",
+    "checked_at": "2026-10-30T11:03:28+00:00",
+    "status": 200,
+    "final_url": "https://wellcomecollection.org/works/dkrtdw9r",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://wellcomecollection.org/works/frh8z3ap",
+    "checked_at": "2026-10-30T11:03:28+00:00",
+    "status": 200,
+    "final_url": "https://wellcomecollection.org/works/frh8z3ap",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://wellcomecollection.org/works/jqc79fxf",
+    "checked_at": "2026-10-30T11:03:28+00:00",
+    "status": 200,
+    "final_url": "https://wellcomecollection.org/works/jqc79fxf",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://wellcomecollection.org/works/rt5ucask",
+    "checked_at": "2026-10-30T11:03:29+00:00",
+    "status": 200,
+    "final_url": "https://wellcomecollection.org/works/rt5ucask",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://wellcomecollection.org/works/wmm3pvmc",
+    "checked_at": "2026-10-30T11:03:29+00:00",
+    "status": 200,
+    "final_url": "https://wellcomecollection.org/works/wmm3pvmc",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://wellcomecollection.org/works/ytv5whr6",
+    "checked_at": "2026-10-30T11:03:29+00:00",
+    "status": 200,
+    "final_url": "https://wellcomecollection.org/works/ytv5whr6",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.biodiversitylibrary.org/item/47645",
+    "checked_at": "2026-10-30T11:03:29+00:00",
+    "status": 403,
+    "final_url": "https://www.biodiversitylibrary.org/item/47645",
+    "classification": "access_denied_or_bot_protection"
+  },
+  {
+    "url": "https://www.biodiversitylibrary.org/item/50146",
+    "checked_at": "2026-10-30T11:03:32+00:00",
+    "status": 403,
+    "final_url": "https://www.biodiversitylibrary.org/item/50146",
+    "classification": "access_denied_or_bot_protection"
+  },
+  {
+    "url": "https://www.e-rara.ch/gep_r/content/titleinfo/21234728",
+    "checked_at": "2026-10-30T11:03:34+00:00",
+    "status": 200,
+    "final_url": "https://www.e-rara.ch/gep_r/content/titleinfo/21234728",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.e-rara.ch/zut/content/titleinfo/14148092",
+    "checked_at": "2026-10-30T11:03:37+00:00",
+    "status": 200,
+    "final_url": "https://www.e-rara.ch/zut/content/titleinfo/14148092",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.e-rara.ch/zut/content/titleinfo/18859705",
+    "checked_at": "2026-10-30T11:03:37+00:00",
+    "status": 200,
+    "final_url": "https://www.e-rara.ch/zut/content/titleinfo/18859705",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.e-rara.ch/zut/content/titleinfo/227751",
+    "checked_at": "2026-10-30T11:03:37+00:00",
+    "status": 200,
+    "final_url": "https://www.e-rara.ch/zut/content/titleinfo/227751",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.e-rara.ch/zut/content/titleinfo/2562552",
+    "checked_at": "2026-10-30T11:03:38+00:00",
+    "status": 200,
+    "final_url": "https://www.e-rara.ch/zut/content/titleinfo/2562552",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.e-rara.ch/zut/content/titleinfo/29199351",
+    "checked_at": "2026-10-30T11:03:45+00:00",
+    "status": 200,
+    "final_url": "https://www.e-rara.ch/zut/content/titleinfo/29199351",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.e-rara.ch/zut/content/titleinfo/5973934",
+    "checked_at": "2026-10-30T11:03:45+00:00",
+    "status": 200,
+    "final_url": "https://www.e-rara.ch/zut/content/titleinfo/5973934",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.e-rara.ch/zut/content/titleinfo/77412",
+    "checked_at": "2026-10-30T11:03:45+00:00",
+    "status": 200,
+    "final_url": "https://www.e-rara.ch/zut/content/titleinfo/77412",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.e-rara.ch/zut/doi/10.3931/e-rara-59154",
+    "checked_at": "2026-10-30T11:03:46+00:00",
+    "status": 200,
+    "final_url": "https://www.e-rara.ch/zut/doi/10.3931/e-rara-59154",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.e-rara.ch/zuz/content/titleinfo/23011918",
+    "checked_at": "2026-10-30T11:03:53+00:00",
+    "status": 200,
+    "final_url": "https://www.e-rara.ch/zuz/content/titleinfo/23011918",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.e-rara.ch/zuz/content/titleinfo/25530248",
+    "checked_at": "2026-10-30T11:03:53+00:00",
+    "status": 200,
+    "final_url": "https://www.e-rara.ch/zuz/content/titleinfo/25530248",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.gutenberg.org/cache/epub/11030/pg11030-images.html",
+    "checked_at": "2026-10-30T11:03:53+00:00",
+    "status": 200,
+    "final_url": "https://www.gutenberg.org/cache/epub/11030/pg11030-images.html",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.gutenberg.org/cache/epub/15399/pg15399-images.html",
+    "checked_at": "2026-10-30T11:03:53+00:00",
+    "status": 200,
+    "final_url": "https://www.gutenberg.org/cache/epub/15399/pg15399-images.html",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.gutenberg.org/cache/epub/2046/pg2046-images.html",
+    "checked_at": "2026-10-30T11:03:55+00:00",
+    "status": 200,
+    "final_url": "https://www.gutenberg.org/cache/epub/2046/pg2046-images.html",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.gutenberg.org/cache/epub/246/pg246-images.html",
+    "checked_at": "2026-10-30T11:03:55+00:00",
+    "status": 200,
+    "final_url": "https://www.gutenberg.org/cache/epub/246/pg246-images.html",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.gutenberg.org/cache/epub/408/pg408-images.html",
+    "checked_at": "2026-10-30T11:03:58+00:00",
+    "status": 200,
+    "final_url": "https://www.gutenberg.org/cache/epub/408/pg408-images.html",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.gutenberg.org/cache/epub/47584/pg47584-images.html",
+    "checked_at": "2026-10-30T11:03:58+00:00",
+    "status": 200,
+    "final_url": "https://www.gutenberg.org/cache/epub/47584/pg47584-images.html",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.gutenberg.org/cache/epub/58585/pg58585-images.html",
+    "checked_at": "2026-10-30T11:04:00+00:00",
+    "status": 200,
+    "final_url": "https://www.gutenberg.org/cache/epub/58585/pg58585-images.html",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.gutenberg.org/cache/epub/7164/pg7164-images.html",
+    "checked_at": "2026-10-30T11:04:00+00:00",
+    "status": 200,
+    "final_url": "https://www.gutenberg.org/cache/epub/7164/pg7164-images.html",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.gutenberg.org/cache/epub/769/pg769-images.html",
+    "checked_at": "2026-10-30T11:04:01+00:00",
+    "status": 200,
+    "final_url": "https://www.gutenberg.org/cache/epub/769/pg769-images.html",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.gutenberg.org/cache/epub/873/pg873-images.html",
+    "checked_at": "2026-10-30T11:04:01+00:00",
+    "status": 200,
+    "final_url": "https://www.gutenberg.org/cache/epub/873/pg873-images.html",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.gutenberg.org/ebooks/11030",
+    "checked_at": "2026-10-30T11:04:01+00:00",
+    "status": 200,
+    "final_url": "https://www.gutenberg.org/ebooks/11030",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.gutenberg.org/ebooks/15399",
+    "checked_at": "2026-10-30T11:04:01+00:00",
+    "status": 200,
+    "final_url": "https://www.gutenberg.org/ebooks/15399",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.gutenberg.org/ebooks/2046",
+    "checked_at": "2026-10-30T11:04:09+00:00",
+    "status": 200,
+    "final_url": "https://www.gutenberg.org/ebooks/2046",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.gutenberg.org/ebooks/246",
+    "checked_at": "2026-10-30T11:04:09+00:00",
+    "status": 200,
+    "final_url": "https://www.gutenberg.org/ebooks/246",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.gutenberg.org/ebooks/408",
+    "checked_at": "2026-10-30T11:04:09+00:00",
+    "status": 200,
+    "final_url": "https://www.gutenberg.org/ebooks/408",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.gutenberg.org/ebooks/47584",
+    "checked_at": "2026-10-30T11:04:09+00:00",
+    "status": 200,
+    "final_url": "https://www.gutenberg.org/ebooks/47584",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.gutenberg.org/ebooks/58585",
+    "checked_at": "2026-10-30T11:04:16+00:00",
+    "status": 200,
+    "final_url": "https://www.gutenberg.org/ebooks/58585",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.gutenberg.org/ebooks/7164",
+    "checked_at": "2026-10-30T11:04:16+00:00",
+    "status": 200,
+    "final_url": "https://www.gutenberg.org/ebooks/7164",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.gutenberg.org/ebooks/769",
+    "checked_at": "2026-10-30T11:04:17+00:00",
+    "status": 200,
+    "final_url": "https://www.gutenberg.org/ebooks/769",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.gutenberg.org/ebooks/873",
+    "checked_at": "2026-10-30T11:04:17+00:00",
+    "status": 200,
+    "final_url": "https://www.gutenberg.org/ebooks/873",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.loc.gov/item/2016769215/",
+    "checked_at": "2026-10-30T11:04:24+00:00",
+    "status": 200,
+    "final_url": "https://www.loc.gov/item/2016769215/",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.loc.gov/item/2016785448/",
+    "checked_at": "2026-10-30T11:04:24+00:00",
+    "status": 200,
+    "final_url": "https://www.loc.gov/item/2016785448/",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.loc.gov/item/2016790970/",
+    "checked_at": "2026-10-30T11:04:25+00:00",
+    "status": 200,
+    "final_url": "https://www.loc.gov/item/2016790970/",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.loc.gov/item/2023852492/",
+    "checked_at": "2026-10-30T11:04:25+00:00",
+    "status": 200,
+    "final_url": "https://www.loc.gov/item/2023852492/",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.metmuseum.org/art/collection/search/310524",
+    "checked_at": "2026-10-30T11:04:33+00:00",
+    "status": 200,
+    "final_url": "https://www.metmuseum.org/art/collection/search/310524",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.metmuseum.org/art/collection/search/310715",
+    "checked_at": "2026-10-30T11:04:33+00:00",
+    "status": 200,
+    "final_url": "https://www.metmuseum.org/art/collection/search/310715",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.metmuseum.org/art/collection/search/312289",
+    "checked_at": "2026-10-30T11:04:34+00:00",
+    "status": 200,
+    "final_url": "https://www.metmuseum.org/art/collection/search/312289",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.metmuseum.org/art/collection/search/316487",
+    "checked_at": "2026-10-30T11:04:34+00:00",
+    "status": 200,
+    "final_url": "https://www.metmuseum.org/art/collection/search/316487",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.metmuseum.org/art/collection/search/318011",
+    "checked_at": "2026-10-30T11:04:41+00:00",
+    "status": 200,
+    "final_url": "https://www.metmuseum.org/art/collection/search/318011",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.metmuseum.org/art/collection/search/320635",
+    "checked_at": "2026-10-30T11:04:41+00:00",
+    "status": 200,
+    "final_url": "https://www.metmuseum.org/art/collection/search/320635",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.metmuseum.org/art/collection/search/322022",
+    "checked_at": "2026-10-30T11:04:41+00:00",
+    "status": 200,
+    "final_url": "https://www.metmuseum.org/art/collection/search/322022",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.metmuseum.org/art/collection/search/322603",
+    "checked_at": "2026-10-30T11:04:41+00:00",
+    "status": 200,
+    "final_url": "https://www.metmuseum.org/art/collection/search/322603",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.metmuseum.org/art/collection/search/39328",
+    "checked_at": "2026-10-30T11:04:48+00:00",
+    "status": 200,
+    "final_url": "https://www.metmuseum.org/art/collection/search/39328",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.metmuseum.org/art/collection/search/39901",
+    "checked_at": "2026-10-30T11:04:48+00:00",
+    "status": 200,
+    "final_url": "https://www.metmuseum.org/art/collection/search/39901",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.metmuseum.org/art/collection/search/435882",
+    "checked_at": "2026-10-30T11:04:49+00:00",
+    "status": 200,
+    "final_url": "https://www.metmuseum.org/art/collection/search/435882",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.metmuseum.org/art/collection/search/436121",
+    "checked_at": "2026-10-30T11:04:49+00:00",
+    "status": 200,
+    "final_url": "https://www.metmuseum.org/art/collection/search/436121",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.metmuseum.org/art/collection/search/436535",
+    "checked_at": "2026-10-30T11:04:56+00:00",
+    "status": 200,
+    "final_url": "https://www.metmuseum.org/art/collection/search/436535",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.metmuseum.org/art/collection/search/437980",
+    "checked_at": "2026-10-30T11:04:56+00:00",
+    "status": 200,
+    "final_url": "https://www.metmuseum.org/art/collection/search/437980",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.metmuseum.org/art/collection/search/444408",
+    "checked_at": "2026-10-30T11:04:56+00:00",
+    "status": 200,
+    "final_url": "https://www.metmuseum.org/art/collection/search/444408",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.metmuseum.org/art/collection/search/449537",
+    "checked_at": "2026-10-30T11:04:56+00:00",
+    "status": 200,
+    "final_url": "https://www.metmuseum.org/art/collection/search/449537",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.metmuseum.org/art/collection/search/451270",
+    "checked_at": "2026-10-30T11:05:04+00:00",
+    "status": 200,
+    "final_url": "https://www.metmuseum.org/art/collection/search/451270",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.metmuseum.org/art/collection/search/451683",
+    "checked_at": "2026-10-30T11:05:04+00:00",
+    "status": 200,
+    "final_url": "https://www.metmuseum.org/art/collection/search/451683",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.metmuseum.org/art/collection/search/451699",
+    "checked_at": "2026-10-30T11:05:04+00:00",
+    "status": 200,
+    "final_url": "https://www.metmuseum.org/art/collection/search/451699",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.metmuseum.org/art/collection/search/45434",
+    "checked_at": "2026-10-30T11:05:04+00:00",
+    "status": 200,
+    "final_url": "https://www.metmuseum.org/art/collection/search/45434",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.metmuseum.org/art/collection/search/456074",
+    "checked_at": "2026-10-30T11:05:17+00:00",
+    "status": 200,
+    "final_url": "https://www.metmuseum.org/art/collection/search/456074",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.metmuseum.org/art/collection/search/468941",
+    "checked_at": "2026-10-30T11:05:17+00:00",
+    "status": 200,
+    "final_url": "https://www.metmuseum.org/art/collection/search/468941",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.metmuseum.org/art/collection/search/51359",
+    "checked_at": "2026-10-30T11:05:18+00:00",
+    "status": 200,
+    "final_url": "https://www.metmuseum.org/art/collection/search/51359",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.metmuseum.org/art/collection/search/547212",
+    "checked_at": "2026-10-30T11:05:18+00:00",
+    "status": 200,
+    "final_url": "https://www.metmuseum.org/art/collection/search/547212",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.metmuseum.org/art/collection/search/547951",
+    "checked_at": "2026-10-30T11:05:24+00:00",
+    "status": 200,
+    "final_url": "https://www.metmuseum.org/art/collection/search/547951",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.metmuseum.org/art/collection/search/552202",
+    "checked_at": "2026-10-30T11:05:24+00:00",
+    "status": 200,
+    "final_url": "https://www.metmuseum.org/art/collection/search/552202",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.metmuseum.org/art/collection/search/61546",
+    "checked_at": "2026-10-30T11:05:24+00:00",
+    "status": 200,
+    "final_url": "https://www.metmuseum.org/art/collection/search/61546",
+    "classification": "reachable"
+  },
+  {
+    "url": "https://www.metmuseum.org/art/collection/search/684184",
+    "checked_at": "2026-10-30T11:05:24+00:00",
+    "status": 200,
+    "final_url": "https://www.metmuseum.org/art/collection/search/684184",
+    "classification": "reachable"
+  }
+]
